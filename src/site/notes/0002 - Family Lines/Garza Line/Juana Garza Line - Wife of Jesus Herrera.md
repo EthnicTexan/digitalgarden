@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0002-family-lines/garza-line/juana-garza-line-wife-of-jesus-herrera/","created":"2025-12-22T23:11:31.410-06:00","updated":"2025-12-22T23:15:29.685-06:00"}
+{"dg-publish":true,"permalink":"/0002-family-lines/garza-line/juana-garza-line-wife-of-jesus-herrera/","created":"2025-12-22T23:11:31.410-06:00","updated":"2025-12-23T00:07:49.505-06:00"}
 ---
 
 
@@ -13,8 +13,6 @@ Juana Garza is the wife of Jesus Herrera, and mother of Santiago (Chago) Herrera
 ###  february 1 
 Apolnar Garza (Daughter) is born 
 ## 1877
-
-![[Pasted image 20251124145006.png\|Pasted image 20251124145006.png]]![[Pasted image 20251124145036.png\|Pasted image 20251124145036.png]]
 
 ![Pasted image 20251222231523.png](/img/user/Z-%20Storage/Documents/Pasted%20image%2020251222231523.png)
 
