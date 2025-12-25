@@ -3,10 +3,9 @@
 ---
 
 
-| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]] |
-| -------------- | --------------------- |
-| **Prior Era:** | NONE                  |
+
 | **Next Era:**  | [[0003 -  Context/0002 - Spanish Texas Era/Spanish Texas Era\|Spanish Texas Era]] |
+| -------------- | --------------------- |
 
 # Spanish Colonial Texas Era 1690-1750
 ---

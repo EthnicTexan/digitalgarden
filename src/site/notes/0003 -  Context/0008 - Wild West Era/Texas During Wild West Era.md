@@ -3,9 +3,8 @@
 ---
 
 
-| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]            |
-| -------------- | -------------------------------- |
 | **Prior Era:** | [[0003 -  Context/0007 - Reconstruction Era/Texas in Reconstruction Era\|Texas in Reconstruction Era]]  |
+| -------------- | -------------------------------- |
 | **Next Era:**  | [[0003 -  Context/0009 - Progressive Era/Texas During Progressive Era\|Texas During Progressive Era]] |
 # Texas During The Wild West Era 1874-1901
 ---

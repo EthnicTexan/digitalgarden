@@ -3,9 +3,9 @@
 ---
 
 
-| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]          |
-| -------------- | ------------------------------ |
+
 | **Prior Era:** | [[0003 -  Context/0001 - Spanish Colonial Era/Spanish Colonial Texas Era\|Spanish Colonial Texas Era]] |
+| -------------- | ------------------------------ |
 | **Next Era:**  | [[0003 -  Context/0003 - Mexican Texas Era/Mexican Texas Era\|Mexican Texas Era]]          |
 
 

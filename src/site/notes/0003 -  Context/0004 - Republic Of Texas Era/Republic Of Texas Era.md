@@ -3,9 +3,8 @@
 ---
 
 
-| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]         |
-| -------------- | ----------------------------- |
 | **Prior Era:** | [[0003 -  Context/0003 - Mexican Texas Era/Mexican Texas Era\|Mexican Texas Era]]         |
+| -------------- | ----------------------------- |
 | **Next Era:**  | [[0003 -  Context/0005 - Early Texas Statehood Era/Early Texas Statehood Era\|Early Texas Statehood Era]] |
 
 # Republic Of Texas Era 1836-1845

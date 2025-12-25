@@ -3,10 +3,8 @@
 ---
 
 
-| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]          |
-| -------------- | ------------------------------ |
 | **Prior Era:** | [[0003 -  Context/0008 - Wild West Era/Texas During Wild West Era\|Texas During Wild West Era]] |
-| **Next Era:**  | NONE                           |
+| -------------- | ------------------------------ |
 
 # Texas During The Progressive Era 1901-1929
 ---

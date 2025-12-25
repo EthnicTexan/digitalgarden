@@ -3,9 +3,8 @@
 ---
 
 
-| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]           |
-| -------------- | ------------------------------- |
 | **Prior Era:** | [[0003 -  Context/0005 - Early Texas Statehood Era/Early Texas Statehood Era\|Early Texas Statehood Era]]   |
+| -------------- | ------------------------------- |
 | **Next Era:**  | [[0003 -  Context/0007 - Reconstruction Era/Texas in Reconstruction Era\|Texas in Reconstruction Era]] |
 # Texas During Civil War Era 1861-1865
 ---

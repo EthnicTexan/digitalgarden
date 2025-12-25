@@ -3,9 +3,8 @@
 ---
 
 
-| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]          |
-| -------------- | ------------------------------ |
 | **Prior Era:** | [[0003 -  Context/0004 - Republic Of Texas Era/Republic Of Texas Era\|Republic Of Texas Era]]      |
+| -------------- | ------------------------------ |
 | **Next Era:**  | [[0003 -  Context/0006 - Civil War Era/Texas During Civil War Era\|Texas During Civil War Era]] |
 
 

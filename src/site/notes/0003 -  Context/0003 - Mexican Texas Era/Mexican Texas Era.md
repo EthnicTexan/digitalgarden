@@ -3,12 +3,11 @@
 ---
 
 
-| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]     |
-| -------------- | ------------------------- |
+
 | **Prior Era:** | [[0003 -  Context/0002 - Spanish Texas Era/Spanish Texas Era\|Spanish Texas Era]]     |
+| -------------- | ------------------------- |
 | **Next Era:**  | [[0003 -  Context/0004 - Republic Of Texas Era/Republic Of Texas Era\|Republic Of Texas Era]] |
 # Mexican Texas Era 1821-1836
-
 ---
 
 The era from **1821 to 1836** is known as the **Mexican National Era** and the **Texas Revolution**. It is arguably the most transformative 15 years in Texas history, shifting the region from a sparsely populated Spanish province to an independent republic.
