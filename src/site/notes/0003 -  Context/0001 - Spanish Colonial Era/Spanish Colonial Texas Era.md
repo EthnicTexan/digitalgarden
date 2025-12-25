@@ -1,15 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0001-spanish-colonial-era/spanish-colonial-texas-era/","created":"2025-12-24T12:58:24.857-06:00","updated":"2025-12-24T14:16:42.468-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0001-spanish-colonial-era/spanish-colonial-texas-era/"}
 ---
 
 
-**Home:** [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]
-# Spanish Colonial Texas Era
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]] |
+| -------------- | --------------------- |
+| **Prior Era:** | NONE                  |
+| **Next Era:**  | [[0003 -  Context/0002 - Spanish Texas Era/Spanish Texas Era\|Spanish Texas Era]] |
+
+# Spanish Colonial Texas Era 1690-1750
 ---
 
-
-
-### For our purposes, this era spans from **1690 to 1750**
 
 # 1690s
 ---

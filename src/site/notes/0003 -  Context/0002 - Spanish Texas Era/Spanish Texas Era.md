@@ -1,16 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0002-spanish-texas-era/spanish-texas-era/","created":"2025-12-24T12:58:29.229-06:00","updated":"2025-12-24T14:25:37.672-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0002-spanish-texas-era/spanish-texas-era/"}
 ---
 
-**Home:** [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]
-# Spanish Texas Era
+
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]          |
+| -------------- | ------------------------------ |
+| **Prior Era:** | [[0003 -  Context/0001 - Spanish Colonial Era/Spanish Colonial Texas Era\|Spanish Colonial Texas Era]] |
+| **Next Era:**  | [[0003 -  Context/0003 - Mexican Texas Era/Mexican Texas Era\|Mexican Texas Era]]          |
+
+
+# Spanish Texas Era 1750 t0 1821
 ---
 
 By the mid-1700s, a generation of people had been born in Texas who had never seen Spain or even the interior of Mexico. They began to refer to themselves as Tejanos (Texans). They developed a unique ranching culture (vaquero traditions) and legal systems that were adapted to the harsh Texas frontier, distinct from the more rigid hierarchies of Mexico City.
 
 The "Brush Country" of South Texas was the perfect incubator for this culture because thousands of Spanish cattle (the ancestors of the **Texas Longhorn**) roamed wild there. Vaqueros were the only ones with the skills to navigate the thick thorny brush, catch these wild cattle, and drive them to markets—a practice that peaked during the famous cattle drives after the Civil War.
-##### For our purposes, this era spans from **1750 t0 1821**
-##### Click here for the prior [[0003 -  Context/0001 - Spanish Colonial Era/Spanish Colonial Texas Era\|Spanish Colonial Texas Era]].
 
 # 1750s
 ---

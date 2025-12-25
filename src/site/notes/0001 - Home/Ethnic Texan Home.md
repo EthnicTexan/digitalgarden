@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/0001-home/ethnic-texan-home/","tags":["gardenEntry"],"created":"2025-12-22T10:55:34.953-06:00","updated":"2025-12-24T14:44:54.945-06:00"}
+{"dg-publish":true,"permalink":"/0001-home/ethnic-texan-home/","tags":["gardenEntry"]}
 ---
 
 # Welcome To Ethnic Texan!
 ---
 A digital archive of the people of Texas.
-
 
 # Texan Era's
 ---

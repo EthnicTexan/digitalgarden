@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8000-privacy/privacy-policy/","created":"2025-12-22T20:32:04.962-06:00","updated":"2025-12-22T21:04:24.564-06:00"}
+{"dg-publish":true,"permalink":"/8000-privacy/privacy-policy/"}
 ---
 
 

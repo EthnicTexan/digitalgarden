@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0004-republic-of-texas-era/republic-of-texas-era/","created":"2025-12-24T12:58:38.448-06:00","updated":"2025-12-24T17:37:36.493-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0004-republic-of-texas-era/republic-of-texas-era/"}
 ---
 
-**Home:** [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]
+
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]         |
+| -------------- | ----------------------------- |
+| **Prior Era:** | [[0003 -  Context/0003 - Mexican Texas Era/Mexican Texas Era\|Mexican Texas Era]]         |
+| **Next Era:**  | [[0003 -  Context/0005 - Early Texas Statehood Era/Early Texas Statehood Era\|Early Texas Statehood Era]] |
+
 # Republic Of Texas Era 1836-1845
 ---
 The **Republic of Texas era (1836–1845)** was a decade of high ambition, crushing debt, and intense political division as the new nation struggled to survive on its own before eventually joining the United States.
-##### Click here for the prior [[0003 -  Context/0003 - Mexican Texas Era/Mexican Texas Era\|Mexican Texas Era]]
-
 # 1836
 ---
 > **The Birth of the Republic:** After the victory at San Jacinto, Sam Houston is elected President. While Anglo-Texans celebrate the new constitution, Spanish-Texans begin to face harassment from new arrivals. Houston signs a treaty with the Cherokee, promising them land titles in East Texas for their neutrality during the war.

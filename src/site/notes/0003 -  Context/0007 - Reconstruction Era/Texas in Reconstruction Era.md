@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0007-reconstruction-era/texas-in-reconstruction-era/","created":"2025-12-24T12:58:49.883-06:00","updated":"2025-12-24T18:59:20.065-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0007-reconstruction-era/texas-in-reconstruction-era/"}
 ---
 
-**Home:** [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]
 
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]          |
+| -------------- | ------------------------------ |
+| **Prior Era:** | [[0003 -  Context/0006 - Civil War Era/Texas During Civil War Era\|Texas During Civil War Era]] |
+| **Next Era:**  | [[0003 -  Context/0008 - Wild West Era/Texas During Wild West Era\|Texas During Wild West Era]] |
 # Texas In Reconstruction Era 1865-1874
 ---
 The **Reconstruction Era (1865–1874)** was a period of intense social, political, and economic upheaval as Texas struggled to define the rights of formerly enslaved people and transition back into the United States.
-
-##### Click here for the prior [[0003 -  Context/0006 - Civil War Era/Texas During Civil War Era\|Texas During Civil War Era]]
 
 # 1865
 ---

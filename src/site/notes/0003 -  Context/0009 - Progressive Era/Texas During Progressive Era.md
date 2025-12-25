@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0009-progressive-era/texas-during-progressive-era/","created":"2025-12-24T12:58:57.193-06:00","updated":"2025-12-24T16:29:26.943-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0009-progressive-era/texas-during-progressive-era/"}
 ---
+
+
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]          |
+| -------------- | ------------------------------ |
+| **Prior Era:** | [[0003 -  Context/0008 - Wild West Era/Texas During Wild West Era\|Texas During Wild West Era]] |
+| **Next Era:**  | NONE                           |
 
 # Texas During The Progressive Era 1901-1929
 ---
-
 The period from **1901 to 1929** saw Texas transform from a rural, agricultural society into an emerging industrial power. Driven by the "Black Gold" of the oil boom and the social reforms of the Progressive Era, the state began to modernize even as it grappled with internal political conflicts.
-#### Click here for the prior [[0003 -  Context/0008 - Wild West Era/Texas During Wild West Era\|Texas During Wild West Era]]
 # 1901
 ---
 > **The Age of Oil Begins:** The Spindletop gusher near Beaumont produces more oil in one day than the rest of the world combined. This transforms Texas from an agrarian state to an industrial giant almost overnight.

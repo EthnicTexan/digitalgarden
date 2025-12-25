@@ -1,11 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0005-early-texas-statehood-era/early-texas-statehood-era/","created":"2025-12-24T12:58:43.311-06:00","updated":"2025-12-24T18:29:27.276-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0005-early-texas-statehood-era/early-texas-statehood-era/"}
 ---
+
+
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]          |
+| -------------- | ------------------------------ |
+| **Prior Era:** | [[0003 -  Context/0004 - Republic Of Texas Era/Republic Of Texas Era\|Republic Of Texas Era]]      |
+| **Next Era:**  | [[0003 -  Context/0006 - Civil War Era/Texas During Civil War Era\|Texas During Civil War Era]] |
+
 
 # Early Texas Statehood 1845-1861
 ---
 
-#### Click here for the prior [[0003 -  Context/0004 - Republic Of Texas Era/Republic Of Texas Era\|Republic Of Texas Era]]
 
 # 1845
 ---

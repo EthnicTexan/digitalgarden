@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0003-mexican-texas-era/mexican-texas-era/","created":"2025-12-24T12:58:34.751-06:00","updated":"2025-12-24T17:23:32.606-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0003-mexican-texas-era/mexican-texas-era/"}
 ---
 
-**Home:** [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]
 
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]     |
+| -------------- | ------------------------- |
+| **Prior Era:** | [[0003 -  Context/0002 - Spanish Texas Era/Spanish Texas Era\|Spanish Texas Era]]     |
+| **Next Era:**  | [[0003 -  Context/0004 - Republic Of Texas Era/Republic Of Texas Era\|Republic Of Texas Era]] |
 # Mexican Texas Era 1821-1836
 
 ---
@@ -14,17 +17,15 @@ The era from **1821 to 1836** is known as the **Mexican National Era** and the *
 > 
 > - **Anglos:** Seeking economic opportunity and land through the Empresario system.
 >     
-> - **Tejanos:** Established Spanish-descent families (like the Seguíns) who acted as political bridges and pioneered the ranching industry.
+> - **Spanish-Texans:** Established Spanish-descent families (like the Seguíns) who acted as political bridges and pioneered the ranching industry.
 >     
 > - **Native Nations:** Powerful groups like the Comanche and Cherokee who navigated complex diplomacy to protect their sovereign territories.
 >     
 
-#### Click here for the prior [[0003 -  Context/0002 - Spanish Texas Era/Spanish Texas Era\|Spanish Texas Era]]
-
 # 1821
 ---
 
-> **The Empresario System:** After Mexico wins independence from Spain, Erasmo Seguín (a prominent Tejano) escorts Stephen F. Austin to San Antonio to secure his father’s land grant. The goal is to buffer against Indigenous raids and U.S. expansion.
+> **The Empresario System:** After Mexico wins independence from Spain, Erasmo Seguín (a prominent Texan) escorts Stephen F. Austin to San Antonio to secure his father’s land grant. The goal is to buffer against Indigenous raids and U.S. expansion.
 > 
 > - **The Deal:** Settlers receive cheap land in exchange for becoming Mexican citizens, obeying Mexican laws, learning Spanish, and converting to Catholicism.
 >     
@@ -42,7 +43,7 @@ The era from **1821 to 1836** is known as the **Mexican National Era** and the *
 # 1824
 ---
 
-> **The Constitution of 1824:** Mexico adopts a federalist constitution. Texas is joined with Coahuila to form **Coahuila y Tejas**. Tejano leaders like José Antonio Navarro begin representing Texas interests in the state legislature, often advocating for the Anglo settlers' economic needs.
+> **The Constitution of 1824:** Mexico adopts a federalist constitution. Texas is joined with Coahuila to form **Coahuila y Tejas**. Texan leaders like José Antonio Navarro begin representing Texas interests in the state legislature, often advocating for the Anglo settlers' economic needs.
 
 
 # 1825
@@ -69,7 +70,7 @@ The era from **1821 to 1836** is known as the **Mexican National Era** and the *
 # 1829
 ---
 
-> **The Guerrero Decree:** President Guerrero abolishes slavery. While Austin secures a temporary exemption, the decree drives a wedge between the Anglo-Texans and the Centralist government. Meanwhile, the Lipan Apache seek closer ties with San Antonio Texans for protection against Comanche raids.
+> **The Guerrero Decree:** President Guerrero abolishes slavery. While Austin secures a temporary exemption, the decree drives a wedge between the Anglo-Texans and the Centralist government. Meanwhile, the Lipan Apache seek closer ties with San Antonio Spansh-Texans for protection against Comanche raids.
 
 # 1830
 ---
@@ -79,7 +80,7 @@ The era from **1821 to 1836** is known as the **Mexican National Era** and the *
 # 1831
 ---
 
-> **Customs Duties and Friction:** Friction peaks at Anahuac. Local Texan officials find themselves caught in the middle—trying to enforce Mexican law while living and working alongside the angry Anglo colonists.
+> **Customs Duties and Friction:** Friction peaks at Anahuac. Local Spanish-Texan officials find themselves caught in the middle—trying to enforce Mexican law while living and working alongside the angry Anglo colonists.
 
 # 1832
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0002-family-lines/ximenez-line/joseph-de-urrutia-ibizi-zelaia/","tags":["genealogy"],"created":"2025-12-22T23:21:23.083-06:00","updated":"2025-12-22T23:56:39.506-06:00"}
+{"dg-publish":true,"permalink":"/0002-family-lines/ximenez-line/joseph-de-urrutia-ibizi-zelaia/","tags":["genealogy"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0002-family-lines/herrera-line/herrera-family-line/","created":"2025-12-22T21:07:10.769-06:00","updated":"2025-12-22T23:02:55.479-06:00"}
+{"dg-publish":true,"permalink":"/0002-family-lines/herrera-line/herrera-family-line/"}
 ---
 
 

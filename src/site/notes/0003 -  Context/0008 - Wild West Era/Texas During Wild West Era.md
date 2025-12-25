@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0008-wild-west-era/texas-during-wild-west-era/","created":"2025-12-24T12:58:52.799-06:00","updated":"2025-12-24T15:50:30.222-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0008-wild-west-era/texas-during-wild-west-era/"}
 ---
 
-# Texas During The Wild West Era
----
-The period from **1874 to 1901** in Texas is often called the "Age of Cotton, Cattle, and Railroads." This era saw the final "closing" of the frontier and the dramatic shift from a war-torn state to an economic powerhouse.
-#### This era spans from **1874-1901**
-#### Click here for the prior [[0003 -  Context/0007 - Reconstruction Era/Texas in Reconstruction Era\|Texas in Reconstruction Era]]
 
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]            |
+| -------------- | -------------------------------- |
+| **Prior Era:** | [[0003 -  Context/0007 - Reconstruction Era/Texas in Reconstruction Era\|Texas in Reconstruction Era]]  |
+| **Next Era:**  | [[0003 -  Context/0009 - Progressive Era/Texas During Progressive Era\|Texas During Progressive Era]] |
+# Texas During The Wild West Era 1874-1901
+---
+The period from **1874 to 1901** in Texas is often called the "Age of Cotton, Cattle, and Railroads." This era saw the final "closing" of the frontier and the dramatic shift from a war-torn state to an economic powerhouse. 
 # 1874
 ---
 > **The Red River War:** The U.S. Army launches a major campaign to push the Comanche, Kiowa, and Southern Cheyenne onto reservations. The decisive Battle of Palo Duro Canyon effectively ends the era of Native American dominance on the Texas plains.

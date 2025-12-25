@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/0003-context/0006-civil-war-era/texas-during-civil-war-era/","created":"2025-12-24T12:58:46.634-06:00","updated":"2025-12-24T18:35:01.358-06:00"}
+{"dg-publish":true,"permalink":"/0003-context/0006-civil-war-era/texas-during-civil-war-era/"}
 ---
 
-**Home:** [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]
+
+| **Home:**      | [[0001 - Home/Ethnic Texan Home\|Ethnic Texan Home]]           |
+| -------------- | ------------------------------- |
+| **Prior Era:** | [[0003 -  Context/0005 - Early Texas Statehood Era/Early Texas Statehood Era\|Early Texas Statehood Era]]   |
+| **Next Era:**  | [[0003 -  Context/0007 - Reconstruction Era/Texas in Reconstruction Era\|Texas in Reconstruction Era]] |
 # Texas During Civil War Era 1861-1865
 ---
-#### Click here for the prior [[0003 -  Context/0005 - Early Texas Statehood Era/Early Texas Statehood Era\|Early Texas Statehood Era]]
 
 # 1861
 ---
