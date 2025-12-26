@@ -6,7 +6,7 @@
 ---
 | Name                                                                                                                                                                                    | Birth Year | Arrival Year |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ |
-| [[0002 - Family Lines/Urrutia/Joseph de Urrutia (1678-1740)/Joseph (Pedro) de Urrutia (1678-1740)\|Joseph (Pedro) de Urrutia (1678-1740)]]                                           | 1678       | 1690         |
+| [[0002 - Family Lines/Urrutia/Joseph de Urrutia (1678-1740)/Joseph de Urrutia (1678-1740)\|Joseph de Urrutia (1678-1740)]]                                                           | 1678       | 1690         |
 | [[0002 - Family Lines/Urrutia/Joseph de Urrutia (1678-1740)/Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)\|Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)]] | 1711       | 1720         |
 
 { .block-language-dataview}
