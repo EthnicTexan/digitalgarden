@@ -19,6 +19,7 @@ The **Republic of Texas era (1836–1845)** was a decade of high ambition, crush
 ---
 >**Diplomatic Recognition:** The United States recognizes Texas. Anglo-Texan land speculators flood the state, often disregarding the existing land grants of Spanish-Texan families. The Comanche maintain a wary peace, trading with the new Republic but firmly controlling the western frontier.
 
+
 # 1838
 ---
 >**The Lamar Transition:** Mirabeau B. Lamar is elected President, bringing a "Texas First" philosophy. He immediately suspends Houston’s peace policies. The Córdova Rebellion breaks out near Nacogdoches—a localized uprising of Spanish-Texans, local Native groups, and Mexican agents—fueling Anglo-Texan distrust of their Spanish-speaking neighbors.

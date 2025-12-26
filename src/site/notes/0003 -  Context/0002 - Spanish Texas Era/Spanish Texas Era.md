@@ -8,55 +8,153 @@
 | -------------- | ------------------------------ |
 | **Next Era:**  | [[0003 -  Context/0003 - Mexican Texas Era/Mexican Texas Era\|Mexican Texas Era]]          |
 
-
-# Spanish Texas Era 1750 t0 1821
+# Spanish Texas Era 1750 to 1821
 ---
+This phase of the **Spanish Colonial Era (1750–1821)** marks the transition from a mission-focused frontier to a ranching-based society. It was a time of massive geopolitical shifts, including the rise of the **Comanche Empire**, the loss and regain of the Louisiana territory, and the violent birth of Mexican independence.
 
-By the mid-1700s, a generation of people had been born in Texas who had never seen Spain or even the interior of Mexico. They began to refer to themselves as Tejanos (Texans). They developed a unique ranching culture (vaquero traditions) and legal systems that were adapted to the harsh Texas frontier, distinct from the more rigid hierarchies of Mexico City.
-
-The "Brush Country" of South Texas was the perfect incubator for this culture because thousands of Spanish cattle (the ancestors of the **Texas Longhorn**) roamed wild there. Vaqueros were the only ones with the skills to navigate the thick thorny brush, catch these wild cattle, and drive them to markets—a practice that peaked during the famous cattle drives after the Civil War.
-
-# 1750s
+# 1751–1754
 ---
- >**1750s–1780s:** Private land grants allowed for the rise of massive ranches in South Texas. By this time, the vaquero identity was fully formed: a distinct class of skilled, mounted herdsmen who were often of Mestizo (mixed Spanish and Indigenous) or Indigenous descent.
+> **Expansion and Friction:** **Spanish-Texan** settlers continue to push into the San Saba River area. However, the **Comanche** begin moving into the region from the north, viewing the Spanish and their **Apache** allies as intruders.
 
-
-# 1760s
+# 1755
 ---
->**French Rivalry:** The border between Spanish Texas and French Louisiana remained a "contested ground" until France ceded Louisiana to Spain in 1762.
+> **Laredo Established:** Tomás Sánchez founds Laredo on the Rio Grande. It becomes a vital ranching hub, connecting the Texas interior to the markets of Mexico.
 
-
-# 1770s
+# 1756
 ---
+> **The Search for Protection:** The **Lipan Apache**, facing near-extermination by the Comanche, plead with the Spanish to build a mission and presidio in their territory for protection.
 
-# 1780s
+# 1757
 ---
+> **San Sabá Mission Founded:** In a risky move, the Spanish establish **Mission Santa Cruz de San Sabá** for the Apache. **Spanish-Texan** soldiers are wary, as the mission is deep in "Comanchería" territory.
 
-
-# 1790s
+# 1758
 ---
->As the missions began to decline and "secularize" (turning mission lands over to individuals), the identity shifted from a religious project to a community of vecinos (citizens/landowners). By the time the 19th century began, the Texan elite—families like the Seguíns and Navarros—saw themselves as a distinct political and social group with interests often separate from the Spanish Crown.
+> **The San Sabá Massacre:** Over 2,000 Comanche and Wichita warriors, armed with French trade guns, destroy the San Sabá mission. This event proves that Spanish steel and stone are no match for the **Comanche Empire's** mounted warfare.
 
-
-
-# 1800s
+# 1759
 ---
->By 1800, Texan residents were a rooted, multi-generational population with a culture that blended European, Indigenous, and frontier influences.
+> **Battle of the Spanish Fort:** A Spanish retaliatory force of 500 men is defeated by a coalition of **Native Nations** (the "Norteños") flying a French flag. Spain realizes it no longer controls the northern frontier.
 
-
-# 1810s
+# 1760–1761
 ---
-> **The Mexican War of Independence:** Starting in 1810, Mexico fought to break away from Spain. Texas became a chaotic battleground for revolutionaries and filibusters (illegal adventurers from the U.S.).
+> **Missions in Decline:** As raids increase, the mission system in Central and East Texas begins to crumble. The **Spanish-Texan** population retreats further behind the walls of the San Antonio and La Bahía presidios.
 
+# 1762
+---
+> **The Louisiana Transfer:** In the secret Treaty of Fontainebleau, France cedes Louisiana to Spain. Overnight, the "French threat" disappears, but Texas loses its primary purpose as a buffer zone.
+
+# 1763
+---
+> **End of the Seven Years' War:** The Treaty of Paris confirms Spanish control of Louisiana. Spain now owns the entire center of the North American continent, yet lacks the people to settle it.
+
+# 1764–1766
+---
+> **The Marqués de Rubí Inspection:** Spain sends Rubí to inspect the frontier. He finds the missions failing and the presidios in tatters, recommending a "New Line" of defense along the Rio Grande.
+
+# 1767–1768
+---
+> **The New Regulations:** Based on Rubí’s report, Spain orders the abandonment of East Texas. **Spanish-Texan** settlers who had lived there for generations are forced to relocate to San Antonio.
+
+# 1769–1771
+---
+> **Resistance to Relocation:** Led by **Antonio Gil Y'Barbo**, the East Texas settlers refuse to stay in San Antonio. They miss the lush forests and their trade relationships with the **Caddo**.
+
+# 1772
+---
+> **San Antonio as Capital:** Official orders make San Antonio the capital of Texas, replacing Los Adaes. **Spanish-Texan** families like the Seguíns and Navarros begin to emerge as the town's political elite.
+
+# 1773
+---
+> **The "Forgotten" Settlers:** Y'Barbo’s group is finally allowed to move back eastward, but only as far as the Trinity River, where they establish a small, struggling settlement.
+
+# 1774–1778
+---
+> **Frontier Diplomacy:** Athanase de Mézières, a Frenchman now working for Spain, travels among the **Native Nations**. He negotiates peace with the Wichita and Waco tribes, though the **Comanche** remain hostile.
+
+# 1779
+---
+> **Refounding of Nacogdoches:** Gil Y'Barbo and his followers move back to their original lands and found **Nacogdoches**. This establishes the permanent **Spanish-Texan** presence in East Texas that persists to this day.
+
+# 1780–1784
+---
+> **The Great Cattle Drive:** To support the American Revolution against Britain, **Spanish-Texan** vaqueros drive thousands of head of cattle from San Antonio and Goliad to Spanish troops in Louisiana and Florida.
+
+# 1785
+---
+> **Peace with the Comanche:** Spanish officials sign a landmark treaty with the **Comanche**. Spain agrees to provide annual gifts and trade, while the Comanche agree to stop raiding San Antonio. This usher in a "Long Peace."
+
+# 1786–1789
+---
+> **The Rise of the Vaquero:** With the Comanche threat neutralized, the ranching economy explodes. The **Spanish-Texan** vaquero culture—complete with saddles, lariats, and chaps—becomes the primary economic driver of the province.
+
+# 1790–1793
+---
+> **Secularization Begins:** The Spanish Crown orders the missions to be "secularized." Mission lands are distributed to **Spanish-Texan** and **Indigenous** families, officially ending the era of the friars' dominance.
+
+# 1794
+---
+> **The End of the Missions:** San Antonio de Valero (The Alamo) is officially secularized. Its buildings are repurposed for military use, eventually housing a flying company of Spanish soldiers from Álamo de Parras (the origins of the Texas Rangers). It is also thought the Alamo gets its name from this group. 
+
+# 1795–1799
+---
+> **The Filibuster Shadows:** Rumors of American "filibusters" (illegal adventurers) begin to reach Texas. **Anglo-Texan** precursors like Philip Nolan enter the province to catch wild horses, making the Spanish government deeply nervous.
+
+# 1800
+---
+> **The Secret Treaty:** Spain is forced to cede Louisiana back to Napoleon’s France. The buffer zone is lost once again, and the aggressive expansion of the young United States is now a direct threat.
+
+# 1801–1802
+---
+> **The Death of Philip Nolan:** Spanish soldiers kill the horse-trader Philip Nolan near present-day Waco. He is considered the first of many **Anglo-Texans** who would challenge Spanish authority.
+
+# 1803
+---
+> **The Louisiana Purchase:** The United States buys Louisiana from France. Suddenly, **Spanish-Texans** find themselves sharing a border with a land-hungry American nation that claims the border is the Rio Grande, not the Sabine.
+
+# 1804–1805
+---
+> **Militarization:** Spain pours thousands of troops into Texas to guard the border. San Antonio becomes a garrison town, putting a massive strain on the local **Spanish-Texan** food supply and economy.
+
+# 1806
+---
+> **The Neutral Ground Agreement:** To avoid war, U.S. and Spanish generals create a "Neutral Ground" between the Sabine River and the Arroyo Hondo. It becomes a lawless haven for outlaws and deserters.
+
+# 1807–1809
+---
+> **Napoleonic Chaos:** Napoleon invades Spain and imprisons the King. This creates a power vacuum in the colonies. **Spanish-Texan** elites begin to wonder if they should rule themselves.
+
+# 1810
+---
+> **Father Hidalgo’s Grito:** In Mexico, Father Miguel Hidalgo launches the War of Independence. The spark reaches Texas, where many **Spanish-Texans** sympathize with the cause of liberty.
+
+# 1811
+---
+> **The Casas Revolt:** Juan Bautista de las Casas leads a pro-independence coup in San Antonio, arresting the Spanish Governor. However, loyalist **Spanish-Texans** eventually recapture the town and execute Casas.
+
+# 1812
+---
+> **Gutiérrez-Magee Expedition:** An army of American filibusters and **Spanish-Texan** revolutionaries (The Republican Army of the North) invades Texas, capturing Nacogdoches and Goliad.
+
+# 1813
+---
+> **The Battle of Medina:** The bloodiest battle in Texas history. A Spanish Royalist army crushes the revolutionaries south of San Antonio. Over 1,000 men are killed, and the **Spanish-Texan** population is decimated by subsequent executions.
+
+# 1814–1818
+---
+> **The Desolate Frontier:** Following the Battle of Medina, Texas is nearly empty. The **Comanche**, seeing the Spanish weakness, resume massive raids. San Antonio and Goliad are the only remaining outposts of civilization.
+
+# 1819
+---
+> **The Adams-Onís Treaty:** The U.S. and Spain finally agree on a border (the Sabine River). In exchange, the U.S. gives up its claim to Texas—but many Americans in the Neutral Ground refuse to accept the deal.
 
 # 1820
 ---
->**Depopulation:** By 1821, after years of war and raids, the Spanish population in Texas had dwindled to only a few thousand people, mostly centered in San Antonio and La Bahía (Goliad).
-
+> **The Moses Austin Request:** A bankrupt American named Moses Austin arrives in San Antonio. With the help of **Spanish-Texan** friend Erasmo Seguín, he petitions the Spanish Governor to settle 300 families in Texas to rebuild the province.
 
 # 1821
 ---
-> **Legacy:** Even though the population was small, Spain left an indelible mark on Texas: the Spanish language, the legal system (including community property laws), architectural styles, and the name "Texas" itself (derived from the Caddo word _Tejas_).
+> **Mexican Independence:** Mexico wins its freedom from Spain. Texas is no longer a Spanish province but a state in the new Mexican Republic. **Spanish-Texan** residents begin to call themselves Texans, looking toward a future of cooperation with the incoming **Anglo-Texan** settlers.
 
 ##### Click here for the [[0003 -  Context/0003 - Mexican Texas Era/Mexican Texas Era\|Mexican Texas Era]]
 

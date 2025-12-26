@@ -11,149 +11,147 @@
 The period from **1901 to 1929** saw Texas transform from a rural, agricultural society into an emerging industrial power. Driven by the "Black Gold" of the oil boom and the social reforms of the Progressive Era, the state began to modernize even as it grappled with internal political conflicts.
 # 1901
 ---
-> **The Age of Oil Begins:** The Spindletop gusher near Beaumont produces more oil in one day than the rest of the world combined. This transforms Texas from an agrarian state to an industrial giant almost overnight.
+> **The Age of Oil Begins:** The Spindletop gusher near Beaumont produces more oil in one day than the rest of the world combined. This transforms the Texas economy from agrarian to industrial, shifting the center of power toward **Anglo-Texan** oil magnates in East Texas.
 
 
 # 1902
 ---
-> **The Poll Tax:** Texas adopts a poll tax as a requirement for voting. This disenfranchises many poor voters, specifically African Americans and the oldest Texan communities, cementing the "Solid South" Democratic control for decades.
-
+> **The Poll Tax:** Texas adopts a poll tax. This serves to disenfranchise many poor **Anglo-Texans**, Black Texans, and **Spanish-Texans**, ensuring that the state's political direction is controlled by the wealthy, white Democratic establishment.
 
 # 1903
 ---
-**The Terrell Election Law:** This law establishes the primary system for selecting political candidates, but it also allows for "White Primaries," further excluding Black Texans from the political process.
+> **The Terrell Election Law:** This law establishes the primary system but also allows for "White Primaries." This legally excludes Black Texans and many **Spanish-Texans** from the only elections that mattered in a one-party state.
 
 
 # 1904
 ---
-> **The Houston Ship Channel:** Construction begins on the dredging of Buffalo Bayou to turn Houston into a deep-water port, eventually making it one of the busiest ports in the world.
+> **The Houston Ship Channel:** Construction begins to turn Houston into a deep-water port. This massive project, funded by **Anglo-Texan** business leaders, eventually makes Houston the energy capital of the world.
 
 
 # 1905
 ---
-> **School Reforms:** The legislature passes the "First School Law," which consolidates small school districts and provides more state funding, signaling a Progressive Era focus on public education.
+> **Progressive School Reforms:** The legislature passes the "First School Law," consolidating small districts. While it improves education for **Anglo-Texans**, schools for Black and **Spanish-Texan** children remain severely underfunded and segregated.
 
 
 # 1906
 ---
-> **The Brownsville Raid:** Following reports of a shooting, Black soldiers of the 25th Infantry are falsely accused of a riot. President Theodore Roosevelt dismisses the entire battalion without a trial—a major racial injustice of the era.
+> **The Brownsville Raid:** Following a mysterious shooting, Black soldiers are falsely accused of a riot. The incident highlights the intense racial tensions in South Texas as the U.S. military and local **Anglo-Texan** authorities clash with minority populations.
 
 
 # 1907
 ---
-> **Texas Department of Agriculture:** The state creates this department to help farmers manage new technologies and crop diseases, reflecting the ongoing importance of farming even as oil grows.
+> **Department of Agriculture Created:** Texas establishes this department to help farmers. Even as oil grows, the state remains a global leader in cotton, with many **Anglo-Texan** and **Spanish-Texan** families tied to the "crop-lien" debt system.
 
 
 # 1908
 ---
-> **The Great Flood of Dallas:** The Trinity River reaches a record 52.6 feet, devastating the city and leading to the eventual construction of the levees that define modern Dallas.
+> **The Great Dallas Flood:** The Trinity River devastates Dallas. In response, **Anglo-Texan** city leaders begin a massive engineering project to redirect the river, demonstrating the Progressive Era belief in "mastering nature" through technology.
 
 
 # 1909
 ---
-> **The El Paso Summit:** Presidents William Howard Taft and Porfirio Díaz meet in El Paso and Juárez. It is the first time a U.S. President meets with a Mexican President, though tensions remain high.
+> **The El Paso Summit:** American President Taft and Mexican President Díaz meet in El Paso. The summit underscores the strategic importance of the border, where **Spanish-Texan** communities act as the primary cultural and economic bridge between the two nations.
 
 
 # 1910
 ---
-> **The Mexican Revolution:** Civil war breaks out in Mexico. This causes a massive wave of immigration into Texas and creates nearly a decade of violence and instability along the Rio Grande border.
+> **The Mexican Revolution Begins:** Violence across the border causes a massive wave of refugees to enter Texas. This influx of people creates a labor boom but also triggers a "nativist" backlash among some **Anglo-Texans** in South Texas.
 
 
 # 1911
 ---
-> **Revolution in El Paso:** Thousands of people watch from rooftops in El Paso as the Battle of Juárez unfolds across the river, marking the first major victory for the Mexican revolutionaries.
+> **Revolution in El Paso:** Thousands of people watch from rooftops in El Paso as the Battle of Juárez unfolds across the river, marking the first major victory for the Mexican revolutionaries. The conflict brings a heavy military presence to the border, disrupting the traditional cross-border lives of many **Spanish-Texan** families.
 
 
 # 1912
 ---
-> **Rice University Opens:** The William Marsh Rice Institute opens in Houston, providing the state with a world-class private research university.
+>**Rice University Opens:** Funded by the estate of William Marsh Rice, the institute becomes a beacon of **Anglo-Texan** academic ambition, focusing on science and engineering to fuel the state's new industrial era.
 
 
 # 1913
 ---
-> **The Federal Reserve:** Dallas is selected as the headquarters for the 11th District of the Federal Reserve, solidifying the city's status as the financial hub of the Southwest.
+> **Federal Reserve in Dallas:** Dallas is chosen as a regional headquarters for the new Federal Reserve system. This cements the city as the financial heart of the Southwest, dominated by **Anglo-Texan** banking interests.
 
 
 # 1914
 ---
-> **The Rise of "Pa" Ferguson:** James E. Ferguson is elected Governor. A populist who appeals to tenant farmers, his administration would eventually end in the only impeachment and removal of a governor in Texas history.
+> **The Rise of "Pa" Ferguson:** James E. Ferguson is elected Governor. A populist who appeals to struggling **Anglo-Texan** tenant farmers, he eventually becomes the only Texas governor to be impeached and removed from office.
 
 
 # 1915
 ---
-> **The Plan de San Diego:** A revolutionary manifesto is discovered calling for an uprising in South Texas to reclaim the Southwest for Mexico. It leads to a "reign of terror" and heavy-handed Texas Ranger retaliation.
-
+> **The Plan de San Diego:** A revolutionary plot is discovered calling for an uprising to reclaim Texas for Mexico. It leads to a "reign of terror" by the Texas Rangers, resulting in the extrajudicial killing of hundreds of innocent **Spanish-Texans**.
 
 
 # 1916
 ---
-> **The Pershing Expedition:** Following Pancho Villa's raid on Columbus, New Mexico, General John J. Pershing leads an army of 10,000 soldiers from Texas into Mexico to capture him.
+> **The Pershing Expedition:** Following Pancho Villa's raid, the U.S. Army uses Texas as a staging ground for an invasion of Mexico. This period sees the militarization of the border, forever changing the social landscape for **Spanish-Texan** residents.
 
 
 # 1917
 ---
-> **WWI and the Zimmerman Telegram:** Germany sends a secret message to Mexico, promising to help them reclaim Texas if they join the war against the U.S. This pushes America into World War I, and Texas becomes a massive training ground for the military.
+> **The Zimmerman Telegram & WWI:** A German plot to return Texas to Mexico is exposed, pushing the U.S. into WWI. Thousands of **Anglo-Texans** and **Spanish-Texans** enlist, while the state becomes the nation's primary military training ground.
 
 
 # 1918
 ---
-> **Women's Suffrage (Primaries):** Texas becomes the first Southern state to allow women the right to vote in primary elections, largely as a reward for their support of Governor William P. Hobby over the disgraced Ferguson.
+> **Women's Suffrage (Primaries):** Texas women win the right to vote in primaries. **Anglo-Texan** suffragists lead the charge, though Black and **Spanish-Texan** women still face significant barriers at the polls due to the poll tax.
 
 
 # 1919
 ---
-> **The Canales Investigation:** State Representative José T. Canales leads an investigation into the Texas Rangers, exposing widespread abuses and killings of Texans along the border. The Rangers are subsequently reorganized.
+> **The Canales Investigation:** State Representative José T. Canales leads an investigation into the Texas Rangers, exposing widespread abuses and killings of Spanish-Texans along the border. The Rangers are subsequently downsized and professionalized.
 
 
 # 1920
 ---
-> **The 19th Amendment:** The U.S. Constitution is amended to grant women the right to vote. In Texas, the census reveals that for the first time, more people live in cities than on farms.
+> **Urbanization and the 19th Amendment:** For the first time, more Texans live in cities than on farms. Women gain the full right to vote, marking a major milestone for **Anglo-Texan** progressive reformers.
 
 
 # 1921
 ---
-> **The KKK at Its Peak:** The Ku Klux Klan experiences a massive resurgence in Texas, gaining control of many local governments and even electing members to the state legislature and high-ranking offices.
+> **The KKK Resurgence:** The Ku Klux Klan gains massive political power in Texas, targeting Black Texans, Catholics, and **Spanish-Texans**. The Klan successfully elects several **Anglo-Texan** members to local and state offices.
 
 
 # 1922
 ---
-> **The Senate Seat Clash:** In a major political battle, KKK-backed Earle B. Mayfield is elected to the U.S. Senate from Texas, reflecting the deep social divisions of the 1920s.
+> **The KKK Senate Victory:** Earle B. Mayfield, supported by the Klan, is elected to the U.S. Senate. This marks the peak of the Klan's influence over the **Anglo-Texan** political establishment.
 
 
 
 # 1923
 ---
-> **The State Parks Board:** Under Governor Pat Neff, the state begins creating a system of public parks to encourage tourism and the use of the newly popular automobile.
+> **State Parks Board Established:** Under Governor Pat Neff, the state begins creating public parks. This move reflects a new **Anglo-Texan** middle-class interest in "motor tourism" and the preservation of the state's natural beauty.
 
 
 # 1924
 ---
-> **"Ma" Ferguson Elected:** Miriam "Ma" Ferguson is elected the first female Governor of Texas, running on a platform of "Two Governors for the price of one" to represent her impeached husband, James.
+> **"Ma" Ferguson Elected:** Running against the Klan, Miriam "Ma" Ferguson becomes the first female governor of Texas. She represents a populist coalition of **Anglo-Texans** and **Spanish-Texans** weary of Klan violence.
 
 
 # 1925
 ---
-> **The Anti-Klan Law:** During her first term, "Ma" Ferguson signs a law prohibiting the wearing of masks in public, a move specifically designed to weaken the power of the Ku Klux Klan.
+> **The Anti-Mask Law:** Governor Ferguson signs a law banning masks in public, effectively breaking the power of the KKK. This is a major victory for the religious and ethnic minorities of Texas.
 
 
 
 # 1926
 ---
->**Texas Tech Opens:** Texas Technological College opens its doors in Lubbock, providing a major educational and research hub for the residents of the High Plains and West Texas.
+>**Texas Tech Opens:** The college opens in Lubbock, providing the residents of the High Plains with their first major research institution, funded largely by the wealth of the **Anglo-Texan** ranching and farming boom.
 
 
 # 1927
 ---
-> **The "Big Swing":** The cotton industry reaches a peak. Tens of thousands of migrant workers begin the "Big Swing"—a circuitous path through the state following the cotton harvest from South Texas to the Panhandle.
+> **The Big Swing:** The cotton industry reaches its height. Tens of thousands of migrant workers, mostly **Spanish-Texans**, begin the "Big Swing" harvest circuit, which becomes the backbone of the state's agricultural economy.
 
 # 1928
 ---
-> **The Houston Convention:** The Democratic National Convention is held in Houston. It is the first time a major party holds its convention in the South since the Civil War, though the party splits over the nomination of Al Smith (a Catholic "Wet").
+> **The Houston Convention:** The Democratic National Convention is held in Houston. Despite local **Anglo-Texan** opposition to his Catholicism and "Wet" (anti-Prohibition) stance, Al Smith receives the nomination.
 
 
 # 1929
 ---
-> **LULAC Founded:** The League of United Latin American Citizens is formed in Corpus Christi. It becomes the oldest and largest Hispanic civil rights organization in the United States, fighting for the end of segregation and discrimination in Texas.
+> **LULAC Founded:** The League of United Latin American Citizens is formed in Corpus Christi. It becomes the oldest and largest Hispanic civil rights organization in the United States, fighting for the end of segregation and discrimination in Texas. It becomes the premier civil rights organization fighting against the segregation of "Mexican Schools" and for the rights of Hispanic citizens.
 
 
 
