@@ -325,7 +325,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## Abt. 1718 - BIRTH - [[Joseph-Miguel de Urrutia\|Joseph-Miguel de Urrutia]]
 
 ### Monclova, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="175" height="175" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 - **Marriage:** Married **[[Clara Cantu\|Clara Cantu]]**.
