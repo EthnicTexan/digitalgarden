@@ -11,14 +11,14 @@
 ## 1678 - UNK - UNK - BIRTH - 
 ### Address/ Location - Guipúzcoa, Spain
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d838350.5036231291!2d-2.7037803554525333!3d43.14111080835154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5035381ce4c9cd%3A0x304f58273c9ca70!2sGipuzkoa%2C%20Spain!5e0!3m2!1sen!2sus!4v1766733478250!5m2!1sen!2sus" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d838350.5036231291!2d-2.7037803554525333!3d43.14111080835154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5035381ce4c9cd%3A0x304f58273c9ca70!2sGipuzkoa%2C%20Spain!5e0!3m2!1sen!2sus!4v1766733478250!5m2!1sen!2sus" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
 ## 1690 - UNK - UNK - Expedition
 He came to America before 1691, when, as a member of the [Domingo Terán de los Ríos](https://www.tshaonline.org/handbook/entries/teran-de-los-rios-domingo) expedition
 ### Address/ Location - 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5969477.096552252!2d-100.1746429297454!3d29.600927664842484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x863eaefcb145ee5d%3A0x9cd3f4ad8bff8107!2sNeches%20River!5e0!3m2!1sen!2sus!4v1766733812197!5m2!1sen!2sus" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5969477.096552252!2d-100.1746429297454!3d29.600927664842484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x863eaefcb145ee5d%3A0x9cd3f4ad8bff8107!2sNeches%20River!5e0!3m2!1sen!2sus!4v1766733812197!5m2!1sen!2sus" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
