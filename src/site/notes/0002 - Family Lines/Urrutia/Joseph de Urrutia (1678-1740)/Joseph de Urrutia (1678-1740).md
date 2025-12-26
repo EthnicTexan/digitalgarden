@@ -103,11 +103,11 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 
 > - **Primary Archival Record:** Manzanet to the Viceroy (1694), A.G.I., Guadalajara (Citing the "faithful Indian" report).
 >     
-> - **Historical Analysis:** [[Castañeda, Carlos E.]], _Our Catholic Heritage in Texas_, Vol. I.
+> - **Historical Analysis:** Castañeda, Carlos E., _Our Catholic Heritage in Texas_, Vol. I.
 >     
-> - **Academic Source:** [[Bolton, Herbert E.]], _The Hasinais: Southern Caddoans as Seen by the Earliest Europeans_.
+> - **Academic Source:** Bolton, Herbert E., _The Hasinais: Southern Caddoans as Seen by the Earliest Europeans_.
 >     
-> - **Literary Reference:** [[Chabot, Frederick C.]], _With The Makers of Texas_.
+> - **Literary Reference:** Chabot, Frederick C., _With The Makers of Texas_.
 ```
 
 
@@ -215,7 +215,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 - **Marriages:** First to **[[Ignacio Gonzalez-de-Inclan\|Ignacio Gonzalez-de-Inclan]]** (abt. 1735); Second to **[[Pedro-Mariano de Ocon-y-Trillo\|Pedro-Mariano de Ocon-y-Trillo]]** (1746).
     
-- **Land Dispute:** On June 18, 1745, she appeared before the city council to object to land being granted to Don Luis Antonio Menchaca.
+- **Land Dispute:** On June 18, 1745, she appeared before the city council to object to land being granted to Don [[Luis Antonio Menchaca\|Luis Antonio Menchaca]].
     
 - **Property Sale:** In 1746, as a widow, she sold property on the north side of the plazas in San Antonio to Lieutenant Don [[Diego Ramon\|Diego Ramon]].
     
@@ -400,7 +400,7 @@ This period marks the pinnacle of Joseph de Urrutia’s career, as he was formal
 * **July 4, 1733: Observations on Tribal Alliances**
 In a letter written weeks before his official appointment, Urrutia noted a significant shift in frontier politics. He expressed surprise that the **Jumanes** had joined his enemies, the **Apaches**, noting that during his time living among them (1693–1700), these groups were "declared enemies".
 * **July 18, 1733: The Recommendation for Command**
-Following a failed peace treaty and the murder of Spanish soldiers, **Don [[Juan de Olivan Rebolledo**\|Juan de Olivan Rebolledo**]] formally recommended Urrutia for the command of the Presidio of San Antonio.
+Following a failed peace treaty and the murder of Spanish soldiers, **Don [[Juan de Olivan Rebolledo\|Juan de Olivan Rebolledo]]** formally recommended Urrutia for the command of the Presidio of San Antonio.
 * **Justification:** The recommendation was based on Urrutia's "seven years" of immersion with tribes hostile to the Apaches and his status as the best-informed Spaniard on Indian affairs, with **40 years of service** across Coahuila, Nuevo León, and Texas.
 
 
@@ -446,7 +446,7 @@ Between 1734 and 1738, Joseph de Urrutia's tenure as Captain of the Presidio de 
     
 - **Period of Quiet (1737–1738):** During the imprisonment of Cabellos Colorados and his band (December 1737 to September 1738), San Antonio experienced a rare period of peace with no recorded Apache depredations.
     
-- **Formal Investigation:** Governor [[Orobio Bazterra\|Orobio Bazterra]] eventually launched an investigation into Cabellos Colorados' actions to provide the Viceroy with evidence of Apache bad faith and to secure further relief for the people of Béxar.
+- **Formal Investigation:** Governor Orobio Bazterra eventually launched an investigation into Cabellos Colorados' actions to provide the Viceroy with evidence of Apache bad faith and to secure further relief for the people of Béxar.
     
 
 ---

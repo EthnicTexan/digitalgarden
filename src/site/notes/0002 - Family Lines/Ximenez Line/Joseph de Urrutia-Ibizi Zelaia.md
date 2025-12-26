@@ -858,7 +858,7 @@ his will is dated [July 4, 1740], San Antonio.
 
 ### Death
 
-* According to "The Makers of San Antonio" And "Texas Handbook Online"  Urrutia died on July 16, 1741, but this appears to be wrong as his Executor of Estate [[Joseph De Plaza\|Joseph De Plaza]]  states that he passed away on July 16, 1740. see the February Source: Bexar Archives - Briscoe Collections below for more. 
+* According to "The Makers of San Antonio" And "Texas Handbook Online"  Urrutia died on July 16, 1741, but this appears to be wrong as his Executor of Estate [[Joseph de Plaza\|Joseph De Plaza]]  states that he passed away on July 16, 1740. see the February Source: Bexar Archives - Briscoe Collections below for more. 
 
 ### Source: With The Makers Of San Antonio
 
