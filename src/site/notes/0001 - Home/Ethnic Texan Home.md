@@ -4,7 +4,7 @@
 
 # Welcome To Ethnic Texan!
 ---
-Join us as we explore the genealogies and history of Texas! 
+A genealogical digital archive of the people of Texas.
 
 # Texan Era's
 ---
