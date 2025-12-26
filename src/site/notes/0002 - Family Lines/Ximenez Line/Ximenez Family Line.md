@@ -3,4 +3,4 @@
 ---
 
 
-[[0002 - Family Lines/Ximenez Line/Joseph de Urrutia-Ibizi Zelaia\|Joseph de Urrutia-Ibizi Zelaia]]
+[[Joseph de Urrutia-Ibizi Zelaia\|Joseph de Urrutia-Ibizi Zelaia]]

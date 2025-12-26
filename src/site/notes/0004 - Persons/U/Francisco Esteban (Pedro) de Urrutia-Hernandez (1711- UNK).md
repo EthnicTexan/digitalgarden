@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/000-templates/individual-person-template/"}
+{"dg-publish":true,"permalink":"/0004-persons/u/francisco-esteban-pedro-de-urrutia-hernandez-1711-unk/"}
 ---
 
-#underconstruction
-# Name ( - )
+#underconstruction 
+# Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)
 ---
 
 
@@ -116,4 +116,6 @@
 
 
 # Resources/Further Reading
+---#underconstruction
+# Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)
 ---

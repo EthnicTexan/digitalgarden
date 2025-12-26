@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/000-templates/individual-person-template/"}
+{"dg-publish":true,"permalink":"/0004-persons/u/juana-de-dios-de-urrutia/"}
 ---
 
-#underconstruction
+#underconstruction 
 # Name ( - )
 ---
 
@@ -116,4 +116,4 @@
 
 
 # Resources/Further Reading
----
+---#underconstruction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-templates/individual-person-template/"}
+{"dg-publish":true,"permalink":"/0004-persons/u/antonia-de-urrutia-ramon/"}
 ---
 
 #underconstruction
