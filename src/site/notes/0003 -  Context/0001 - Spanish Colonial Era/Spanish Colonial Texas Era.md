@@ -14,9 +14,9 @@ This era, known as the **Mission-Presidio Period**, was defined by Spain’s rea
 ---
 > **First East Texas Missions:** Fearing French influence, Alonso de León and Father Damián Massanet establish **Mission San Francisco de los Tejas**. The **Spanish** expedition relies on the **Hasinai Caddo** for survival, whom they call "Tejas" (meaning friends).
 
-| Family Lines Established This Year                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[0002 - Family Lines/Urrutia/Joseph de Urrutia (1678-1740)/Urrutia, Joseph - Family Line - (1690)\|Urrutia, Joseph - Family Line - (1690)]] |
+| Family Lines Established This Year                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[0002 - Family Lines/Urrutia/Joseph de Urrutia (1678-1740)/Urrutia, Joseph de - Family Line - (1690)\|Urrutia, Joseph de - Family Line - (1690)]] |
 
 { .block-language-dataview}
 
