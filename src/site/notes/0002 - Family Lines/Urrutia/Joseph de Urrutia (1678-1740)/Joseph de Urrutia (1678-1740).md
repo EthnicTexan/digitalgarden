@@ -28,7 +28,7 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 
 - **August 1692: First Apache Campaign** While stationed at the Neches River garrison as a young soldier, Urrutia participates in a joint military expedition with the **"Texas" (Hasinai)** Indians. The group marches westward into Apache territory.
     
-- **The Night Ambush:** During the expedition, the company is surprised by a night attack while sleeping. According to Father Francisco Hidalgo, the group is saved from total destruction only by the **firearms** of the Spanish soldiers, including Urrutia. This marks one of Urrutia's earliest recorded encounters with the Apache nation.
+- **The Night Ambush:** During the expedition, the company is surprised by a night attack while sleeping. According to [[Father Francisco Hidalgo\|Father Francisco Hidalgo]], the group is saved from total destruction only by the **firearms** of the Spanish soldiers, including Urrutia. This marks one of Urrutia's earliest recorded encounters with the Apache nation.
     
 - **c. late 1692: Major Military Victory:** Urrutia continues to serve in Spanish-Indian coalition forces. In a subsequent campaign during this period, the alliance achieves a decisive victory, reportedly **killing 136 Apaches**.
 
@@ -77,7 +77,7 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 ---
 - 1694: Conflicting Accounts of the "Desertion"
     
-    Evidence from the writings of Father Damián Massanet suggests that after the Spanish withdrawal in 1693, Urrutia and other soldiers may have returned to the abandoned missions. A "faithful Indian" reported to the Padres that the deserters had gone back to help local tribes recover buried mission supplies and tools.
+    Evidence from the writings of [[Father Damián Massanet\|Father Damián Massanet]] suggests that after the Spanish withdrawal in 1693, Urrutia and other soldiers may have returned to the abandoned missions. A "faithful Indian" reported to the Padres that the deserters had gone back to help local tribes recover buried mission supplies and tools.
     
 - 1694–1700: Life Among the Cantona Tribes
     
@@ -103,15 +103,15 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 
 > - **Primary Archival Record:** Manzanet to the Viceroy (1694), A.G.I., Guadalajara (Citing the "faithful Indian" report).
 >     
-> - **Historical Analysis:** Castañeda, Carlos E., _Our Catholic Heritage in Texas_, Vol. I.
+> - **Historical Analysis:** [[Castañeda, Carlos E.]], _Our Catholic Heritage in Texas_, Vol. I.
 >     
-> - **Academic Source:** Bolton, Herbert E., _The Hasinais: Southern Caddoans as Seen by the Earliest Europeans_.
+> - **Academic Source:** [[Bolton, Herbert E.]], _The Hasinais: Southern Caddoans as Seen by the Earliest Europeans_.
 >     
-> - **Literary Reference:** Chabot, Frederick C., _With The Makers of Texas_.
+> - **Literary Reference:** [[Chabot, Frederick C.]], _With The Makers of Texas_.
 ```
 
 
-## 1697 - JAN - 06 - MARRIAGE - To Antonia Ramon
+## 1697 - JAN - 06 - MARRIAGE - To [[Antonia Ramon\|Antonia Ramon]]
 ---
 
 | **Details**                                                                                                      |
@@ -132,7 +132,7 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 ```   
 
 
-## 1698 - BIRTH - Child: Antonia de Urrutia-Ramon
+## 1698 - BIRTH - Child: [[Antonia de Urrutia-Ramon\|Antonia de Urrutia-Ramon]]
 
 ## 1700 - Return from Expedition
 ### Location - San Juan Bautista Mission 
@@ -156,45 +156,45 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     - **Strategic Placement:** This mission was located on the Rio Grande, serving as the gateway back into the Texas territory he had previously lived in for years.
 
 
-## 1703 - MARRIAGE - To Rosa Flores-Y-Valdez
+## 1703 - MARRIAGE - To [[Rosa Flores-Y-Valdez\|Rosa Flores-Y-Valdez]]
 ### Location - Saltillo, Coahuila, Mexico
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555606.82121909!2d-101.4484255525204!3d27.795395213232464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770348996!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Abt. 1704 - BIRTH - Rosa-Micaela de Urrutia
+## Abt. 1704 - BIRTH -[[ Rosa-Micaela de Urrutia\| Rosa-Micaela de Urrutia]]
 
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-- **Marriage:** She married **Pedro-Jose Godoy** in Boca de Leones, Nuevo Leon, Mexico.
+- **Marriage:** She married **[[Pedro-Jose Godoy\|Pedro-Jose Godoy]]** in Boca de Leones, Nuevo Leon, Mexico.
     
 - **Death:** She passed away approximately in 1774 in Boca de Leones.
     
 
 ---
 
-## 1706 - December 05 - BIRTH - Cathalina de Urrutia
+## 1706 - December 05 - BIRTH - [[Cathalina de Urrutia\|Cathalina de Urrutia]]
 
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-- **Marriage:** Married **Don Joseph de Plaza** (born abt. 1704).
+- **Marriage:** Married **Don [[Joseph de Plaza\|Joseph de Plaza]]** (born abt. 1704).
     
 - **Death:** Occurred between 1778 and 1809 in Boca de Leones, Nuevo Leon.
     
 
 ---
 
-## Abt. 1707 - BIRTH - Captain Toribio de Urrutia
+## Abt. 1707 - BIRTH - Captain [[Toribio de Urrutia\|Toribio de Urrutia]]
 
 ### San Juan Bautista del Rio Grande, Presidio del Norte, Coahuila, Mexico
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1305174.3629411538!2d-100.4283071086307!3d28.616570292981148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865fe2f81422fdb9%3A0xa65fe5c004abe61!2sRuins%20Mission%20San%20Juan%20Bautista!5e0!3m2!1sen!2sus!4v1766770163739!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-- **Marriages:** First to **Maria-Josefa Flores-de-Valdez** (1735); Second to **Ana-Josefa-Maria Farias-Flores-de-Abrego**.
+- **Marriages:** First to **[[Maria-Josefa Flores-de-Valdez\|Maria-Josefa Flores-de-Valdez]]** (1735); Second to **[[Ana-Josefa-Maria Farias-Flores-de-Abrego\|Ana-Josefa-Maria Farias-Flores-de-Abrego]]**.
     
 - **Military Career:** He succeeded his father as Captain of San Antonio de Bexar in 1740.
     
@@ -207,32 +207,32 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 ---
 
-## 1709 - July 25 - BIRTH - Juana-de-Dios de Urrutia
+## 1709 - July 25 - BIRTH - [[Juana-de-Dios de Urrutia\|Juana-de-Dios de Urrutia]]
 
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-- **Marriages:** First to **Ignacio Gonzalez-de-Inclan** (abt. 1735); Second to **Pedro-Mariano de Ocon-y-Trillo** (1746).
+- **Marriages:** First to **[[Ignacio Gonzalez-de-Inclan\|Ignacio Gonzalez-de-Inclan]]** (abt. 1735); Second to **[[Pedro-Mariano de Ocon-y-Trillo\|Pedro-Mariano de Ocon-y-Trillo]]** (1746).
     
 - **Land Dispute:** On June 18, 1745, she appeared before the city council to object to land being granted to Don Luis Antonio Menchaca.
     
-- **Property Sale:** In 1746, as a widow, she sold property on the north side of the plazas in San Antonio to Lieutenant Don Diego Ramon.
+- **Property Sale:** In 1746, as a widow, she sold property on the north side of the plazas in San Antonio to Lieutenant Don [[Diego Ramon\|Diego Ramon]].
     
 - **Death:** After July 19, 1745, in San Antonio, Texas.
     
 
 ---
 
-## Abt. 1710 - BIRTH - Joaquin de Urrutia
+## Abt. 1710 - BIRTH - [[Joaquin de Urrutia\|Joaquin de Urrutia]]
 
 ### Saltillo, Coahuila, Mexico
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555606.82121909!2d-101.4484255525204!3d27.795395213232464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770348996!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-- **Marriage:** Married **Maria-Josefa Hernandez-Longoria** (abt. 1732).
+- **Marriage:** Married **[[Maria-Josefa Hernandez-Longoria\|Maria-Josefa Hernandez-Longoria]]** (abt. 1732).
 - **Philanthropy:** In 1738, he gave $100 pesos towards the construction of San Fernando Church in San Antonio, Texas
-- **Land Grant:** Received a grant in 1742. His land was bounded by the San Pedro Creek and the property of his father-in-law, Francisco Hernandez.
+- **Land Grant:** Received a grant in 1742. His land was bounded by the San Pedro Creek and the property of his father-in-law, [[Francisco Hernandez\|Francisco Hernandez]].
 - **Death:** November 01, 1768, in San Antonio, Texas.
     
 
@@ -244,7 +244,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555606.82121909!2d-101.4484255525204!3d27.795395213232464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770348996!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-- **Marriage:** Married **Gertrudis Flores-y-Valdez** (abt. 1739) in Saltillo.
+- **Marriage:** Married **[[Gertrudis Flores-y-Valdez\|Gertrudis Flores-y-Valdez]]** (abt. 1739) in Saltillo.
 - **Contribution:** In 1738, he gave $5 pesos towards the construction of San Fernando Church in San Antonio, Texas
 
 #### Key Genealogical Insights
@@ -253,7 +253,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     
 - **Family Alliances:** His marriages connected two of the most influential frontier families of the era: the **Ramón** family of Coahuila and the **Flores de Valdés** family of San Antonio.
     
-- **Documented Lineage:** The 1739 record specifically identifies **Pedro de Urrutia** as the legitimate son of the ***Captain of San Antonio*** **Pedro de Urrutia** and **Rosa Flores de Baldés**, confirming the second marriage, his alternate name, and the family's status in the San Antonio presidio.
+- **Documented Lineage:** The 1739 record specifically identifies **Pedro de Urrutia** as the legitimate son of the ***Captain of San Antonio*** **Pedro de Urrutia** and **[[Rosa Flores de Baldés\|Rosa Flores de Baldés]]**, confirming the second marriage, his alternate name, and the family's status in the San Antonio presidio.
 
 ---
 ```
@@ -263,7 +263,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 ---
 
-## 1712/13 - January 15 - BIRTH - Manuel de Urrutia
+## 1712/13 - January 15 - BIRTH - [[Manuel de Urrutia\|Manuel de Urrutia]]
 
 ### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555606.82121909!2d-101.4484255525204!3d27.795395213232464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770348996!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -274,9 +274,9 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 
 ## 1714 -  Petition for Urrutia’s Return
-- **Lasting Indigenous Influence:** Even years after his departure, Urrutia and Father Francisco Hidalgo remained deeply respected by the **Asinais (Hasinai)** people.
+- **Lasting Indigenous Influence:** Even years after his departure, Urrutia and [[Father Francisco Hidalgo\|Father Francisco Hidalgo]] remained deeply respected by the **Asinais (Hasinai)** people.
 
-- **The St. Denis Encounter:** When the French explorer **Louis Juchereau de St. Denis** arrived among the Asinais in 1714, the tribe used his expedition as a diplomatic channel to reach Spanish authorities.
+- **The St. Denis Encounter:** When the French explorer **[[Louis Juchereau de St. Denis\|Louis Juchereau de St. Denis]]** arrived among the Asinais in 1714, the tribe used his expedition as a diplomatic channel to reach Spanish authorities.
 - **A Specific Request for Leadership:** The Asinais requested that St. Denis petition the Mexican government to send two specific men back to them:
     
     - **Father Francisco Hidalgo:** To serve as their minister and missionary.
@@ -298,13 +298,13 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     
 - **Administrative Appointment:** He was officially appointed as the **"Protector of the Indians"** in Nuevo León.
     
-- **The Aguayo Connection:** Urrutia earned the trust of the powerful **Marquis of San Miguel de Aguayo**, who described him as a "man of much honor" from Guipúzcoa.
+- **The Aguayo Connection:** Urrutia earned the trust of the powerful **[[Marquis of San Miguel de Aguayo\|Marquis of San Miguel de Aguayo]]**, who described him as a "man of much honor" from Guipúzcoa.
     
 - **The Gran Quivira Expedition:** Aguayo recommended that Urrutia lead an expedition to discover the legendary **"Gran Quivira"**.
     
     - **Urrutia’s Confidence:** He asserted that he could successfully reach Quivira with only 10 or 12 men, relying entirely on the goodwill and protection of the many nations that remained his friends.
         
-    - **Desire to Return:** Writing from the Mines of Mazapil, Aguayo noted that even after an absence of nearly twenty years, Urrutia still "anxiously desires" to return to his indigenous allies.
+    - **Desire to Return:** Writing from the [[Mines of Mazapil\|Mines of Mazapil]], Aguayo noted that even after an absence of nearly twenty years, Urrutia still "anxiously desires" to return to his indigenous allies.
         
 - **Legacy of the Apache Conflict:** The early decision by Spaniards like Urrutia to aid the "Texas" (Hasinai) tribes permanently marked the Spanish as enemies of the **Apaches**. This "Apache terror" would go on to overshadow the entire history of Spanish Texas and the founding of San Antonio.
     
@@ -312,33 +312,33 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 > **Historical Note:** The mention of Urrutia serving at the **Mines of Mazapil** without cost to the Royal Treasury demonstrates his high social standing and personal wealth during this period.
 
-## 1716 - September 15 - BIRTH - Ignacio-Cayetano de Urrutia
+## 1716 - September 15 - BIRTH -[[Ignacio-Cayetano de Urrutia\|Ignacio-Cayetano de Urrutia]]
 
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-- **Marriage:** Married **Rosa Sanchez-Navarro-y-Gomez** in Saltillo, Coahuila.
+- **Marriage:** Married **[[Rosa Sanchez-Navarro-y-Gomez\|Rosa Sanchez-Navarro-y-Gomez]]** in Saltillo, Coahuila.
 
 ---
 
-## Abt. 1718 - BIRTH - Joseph-Miguel de Urrutia
+## Abt. 1718 - BIRTH - [[Joseph-Miguel de Urrutia\|Joseph-Miguel de Urrutia]]
 
 ### Monclova, Coahuila, Mexico
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-- **Marriage:** Married **Clara Cantu**.
+- **Marriage:** Married **[[Clara Cantu\|Clara Cantu]]**.
 - **Service:** Recognized for many years of service to the Spanish Crown.
 - **Royal Grant:** Received a Royal Grant in 1744.
 - **Death:** After 1744, San Antonio, Texas.
 
 ---
 
-## 1719 - June 06 - BIRTH - Anna-Maria-Gertrudis-Josephina de Urrutia
+## 1719 - June 06 - BIRTH - [[Anna-Maria-Gertrudis-Josephina de Urrutia\|Anna-Maria-Gertrudis-Josephina de Urrutia]]
 
 ### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
-- **Marriage:** Married **Antonio-Nicolas de Trevino-Gutierrez** in 1740.
+- **Marriage:** Married **[[Antonio-Nicolas de Trevino-Gutierrez\|Antonio-Nicolas de Trevino-Gutierrez]]** in 1740.
     
 
 ---
@@ -387,7 +387,7 @@ This entry documents a brief period of regional stability during the years prece
 **Secondary Source:** Chabot, Frederick C. _With The Makers of Texas: Genealogies of the Early San Antonio Families_.
 ```
 
-## 1732 - Death - Of Son Manuel de Urrutia
+## 1732 - Death - Of Son [[Manuel de Urrutia\|Manuel de Urrutia]]
 ## 1733 - Captaincy of San Antonio (1733)
 
 ### San Antonio, Texas 
@@ -400,7 +400,7 @@ This period marks the pinnacle of Joseph de Urrutia’s career, as he was formal
 * **July 4, 1733: Observations on Tribal Alliances**
 In a letter written weeks before his official appointment, Urrutia noted a significant shift in frontier politics. He expressed surprise that the **Jumanes** had joined his enemies, the **Apaches**, noting that during his time living among them (1693–1700), these groups were "declared enemies".
 * **July 18, 1733: The Recommendation for Command**
-Following a failed peace treaty and the murder of Spanish soldiers, **Don Juan de Olivan Rebolledo** formally recommended Urrutia for the command of the Presidio of San Antonio.
+Following a failed peace treaty and the murder of Spanish soldiers, **Don [[Juan de Olivan Rebolledo**\|Juan de Olivan Rebolledo**]] formally recommended Urrutia for the command of the Presidio of San Antonio.
 * **Justification:** The recommendation was based on Urrutia's "seven years" of immersion with tribes hostile to the Apaches and his status as the best-informed Spaniard on Indian affairs, with **40 years of service** across Coahuila, Nuevo León, and Texas.
 
 
@@ -442,11 +442,11 @@ Between 1734 and 1738, Joseph de Urrutia's tenure as Captain of the Presidio de 
     
 - **Confirmed Service Record:** On November 13, 1734, official records noted that Captain Commander Jose de Urrutia had served the Spanish crown for over 40 years with the full approval of the authorities.
     
-- **The "Red Hair" Conspiracy:** Urrutia reported a major rumored plot involving the influential Apache chief **Cabellos Colorados** (Red Hair). Before his imprisonment, the chief allegedly conspired with the "Capitán Grande" of the Apache tribes to steal all horses from the presidios of Béxar, Río Grande, Coahuila, and Sacramento, followed by a total slaughter of the inhabitants.
+- **The "Red Hair" Conspiracy:** Urrutia reported a major rumored plot involving the influential Apache chief **[[Cabellos Colorados\|Cabellos Colorados]]** (Red Hair). Before his imprisonment, the chief allegedly conspired with the "Capitán Grande" of the Apache tribes to steal all horses from the presidios of Béxar, Río Grande, Coahuila, and Sacramento, followed by a total slaughter of the inhabitants.
     
 - **Period of Quiet (1737–1738):** During the imprisonment of Cabellos Colorados and his band (December 1737 to September 1738), San Antonio experienced a rare period of peace with no recorded Apache depredations.
     
-- **Formal Investigation:** Governor Orobio Bazterra eventually launched an investigation into Cabellos Colorados' actions to provide the Viceroy with evidence of Apache bad faith and to secure further relief for the people of Béxar.
+- **Formal Investigation:** Governor [[Orobio Bazterra\|Orobio Bazterra]] eventually launched an investigation into Cabellos Colorados' actions to provide the Viceroy with evidence of Apache bad faith and to secure further relief for the people of Béxar.
     
 
 ---
@@ -462,9 +462,9 @@ The year 1735 reveals the complex administrative and financial responsibilities 
 
 ---
 
-- **April – June 1735: The Reimbursement Dispute (_Urrutia vs. Costales_)** Joseph de Urrutia entered into a protracted legal battle with **Gabriel Costales**, Captain of the Presidio of La Bahía, concerning expenses for a squadron of La Bahía soldiers stationed at Béxar.
+- **April – June 1735: The Reimbursement Dispute (_Urrutia vs. Costales_)** Joseph de Urrutia entered into a protracted legal battle with **[[Gabriel Costales\|Gabriel Costales]]**, Captain of the Presidio of La Bahía, concerning expenses for a squadron of La Bahía soldiers stationed at Béxar.
     
-    - **Authorization of Supplies:** Acting on an order from Governor Manuel de Sandoval, Urrutia had provided horses, arms, and provisions to the La Bahía soldiers to ensure the "royal service" was not interrupted.
+    - **Authorization of Supplies:** Acting on an order from Governor [[Manuel de Sandoval\|Manuel de Sandoval]], Urrutia had provided horses, arms, and provisions to the La Bahía soldiers to ensure the "royal service" was not interrupted.
         
     - **The Detailed Ledger:** Urrutia presented meticulous notebooks documenting items furnished to the soldiers, including corn, piloncillo (sugar), soap, tobacco, salt, shoes, and horses.
         
@@ -474,7 +474,7 @@ The year 1735 reveals the complex administrative and financial responsibilities 
         
 - **September 1735: Power of Attorney and Financial Oversight** Urrutia’s influence extended into the personal finances of his garrison.
     
-    - **Salary Collection:** Several soldiers granted Urrutia (or his associate Juan de Angulo) power of attorney to collect their annual salaries directly from the royal treasury.
+    - **Salary Collection:** Several soldiers granted Urrutia (or his associate [[Juan de Angulo\|Juan de Angulo]]) power of attorney to collect their annual salaries directly from the royal treasury.
         
     - **Tax Application:** A portion of these collected salaries was used to pay Urrutia’s own taxes, demonstrating a high level of financial entanglement between the Captain and his men.
         
@@ -505,7 +505,7 @@ In 1736, Captain Joseph de Urrutia faced further legal and financial challenges 
 
 ---
 
-- **Financial Litigation (_Rodríguez vs. Urrutia_):** In April 1736, a legal proceeding was initiated by **José Antonio Rodríguez** against Captain Joseph de Urrutia.
+- **Financial Litigation (_Rodríguez vs. Urrutia_):** In April 1736, a legal proceeding was initiated by **[[José Antonio Rodríguez\|José Antonio Rodríguez]]** against Captain Joseph de Urrutia.
     
 - **Demand for Payment:** Rodríguez filed a formal demand seeking the payment of a specific amount of money owed to him by Urrutia.
     
@@ -528,7 +528,7 @@ The imprisonment of the influential Lipan Apache chief **Cabellos Colorados** (R
 ---
 
 **December 11, 1737: Capture of the Chief**
-* Following years of raids, Spanish forces captured the Lipan Apache chief **Cabellos Colorados** at El Chapintillo, located approximately 30 miles from San Antonio.
+* Following years of raids, Spanish forces captured the Lipan Apache chief **Cabellos Colorados** at [[El Chapintillo\|El Chapintillo]], located approximately 30 miles from San Antonio.
 * The chief and his band were brought to the **Presidio de Béxar** as prisoners.
 
 
@@ -544,7 +544,7 @@ The imprisonment of the influential Lipan Apache chief **Cabellos Colorados** (R
 
 
  **Governor’s Formal Investigation**
-* **Governor Prudencio de Orobio y Basterra** initiated a formal investigation into the crimes committed by Cabellos Colorados.
+* **Governor [[Prudencio de Orobio y Basterra\|Prudencio de Orobio y Basterra]]** initiated a formal investigation into the crimes committed by Cabellos Colorados.
 * Evidence of "Apache bad faith" was meticulously compiled to petition the Viceroy for permanent relief and defensive reinforcements for the San Antonio settlers.
 
 
@@ -563,7 +563,7 @@ An administrative record from August 1737 highlights Joseph de Urrutia’s relia
 
 
 * **August 23, 1737: Power of Attorney**
-* Joseph de Urrutia granted a formal power of attorney to **Ignacio González de Jordán**.
+* Joseph de Urrutia granted a formal power of attorney to **[[Ignacio González de Jordán\|Ignacio González de Jordán]]**.
 * This document allowed Jordán to act as Urrutia's legal representative in official matters, likely facilitating the collection of salaries or the resolution of the various lawsuits (such as *Urrutia vs. Costales* or *Rodríguez vs. Urrutia*) that marked this period.
 
 
@@ -594,7 +594,7 @@ In the final years of his career, Joseph de Urrutia took decisive, independent a
 * Frustrated by repeated Apache raids and bureaucratic delays, Captain Urrutia bypassed local authorities and petitioned the Viceroy directly for permission to lead a campaign on his own responsibility.
 * He described a "state of constant terror" in San Antonio, where families were fleeing the settlement and residents were too afraid to tend to their livestock.
 * Urrutia provided a harrowing account of Apache stealth, noting they could enter the center of the presidio plaza at night and steal horses tied to house doors without being heard.
-* He reported that mission Indians were deserting in mass numbers to escape Apache "tyranny," fleeing toward the coast or the "Monte Grande" (Big Wood).
+* He reported that mission Indians were deserting in mass numbers to escape Apache "tyranny," fleeing toward the coast or the "[[Monte Grande\|Monte Grande]]" (Big Wood).
 
 **The Bid for Leadership**
 * In his petition, Urrutia emphasized his unique qualifications: his seven-year residence among the tribes, his fluency in their languages, and the personal affection the Indians held for him.
@@ -603,7 +603,7 @@ In the final years of his career, Joseph de Urrutia took decisive, independent a
 
 **The Winter of 1739: Expedition to San Saba**
 * Although originally planned for April, the campaign was delayed until the winter of 1739.
-* Urrutia led his forces into the **San Saba region**, reaching approximately the same point achieved by Juan Antonio Bustillo y Ceballos in 1732.
+* Urrutia led his forces into the **San Saba region**, reaching approximately the same point achieved by [[Juan Antonio Bustillo y Ceballos\|Juan Antonio Bustillo y Ceballos]] in 1732.
 * The campaign's funding was based on a "spoils" system: expenses were to be met by the **sale of captives**, with participants sharing in any secured plunder.
 
 
@@ -625,9 +625,9 @@ The final years of Captain Joseph de Urrutia’s life and the subsequent settlem
 
 ### 1740: Death and Succession
 
-* **Succession of Command:** Joseph de Urrutia was succeeded as Captain of the Presidio de Béxar by his son, **Toribio de Urrutia**, who continued the family’s military leadership in San Antonio.
+* **Succession of Command:** Joseph de Urrutia was succeeded as Captain of the Presidio de Béxar by his son, **[[Toribio de Urrutia\|Toribio de Urrutia]]**, who continued the family’s military leadership in San Antonio.
 * **The Final Will:** On **July 4, 1740**, while in San Antonio, Urrutia drafted his last will and testament.
-* **Date of Passing:** Although some secondary sources list his death as July 16, 1741, his general executor, **Joseph de Plaza**, explicitly stated in legal records that Urrutia died on **July 16, 1740**.
+* **Date of Passing:** Although some secondary sources list his death as July 16, 1741, his general executor, **[[Joseph de Plaza\|Joseph de Plaza]]**, explicitly stated in legal records that Urrutia died on **July 16, 1740**.
 * **Residence:** At the time of his death, he lived in the **Comandancia** (known today as the Spanish Governor's Palace), where he was known to converse with prisoners in the adjoining jail during the afternoon siesta.
 
 ### 1741: Estate Settlement and Inventory
