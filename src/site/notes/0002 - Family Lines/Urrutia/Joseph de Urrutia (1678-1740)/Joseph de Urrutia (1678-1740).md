@@ -46,6 +46,11 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 
 
 ## 1693 - Expedition
+
+### Colorado River, Texas 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1287707.4772895938!2d-98.60949880305425!3d29.991870445452108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86562af3e2e418c9%3A0x5131366d5345821d!2sColorado%20River!5e0!3m2!1sen!2sus!4v1766779515804!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
 ---
 - **Arrival and Abandonment:** Urrutia was a young soldier stationed at a Spanish garrison near the **Neches River** during the Terán expedition.
     
@@ -359,6 +364,9 @@ This entry documents a brief period of regional stability during the years prece
 
 ## 1732 - The Appointment to Captaincy (1732–1733)
 
+### San Antonio, Texas
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11689.223276427148!2d-98.49685645140516!3d29.422160712067765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2aea7e4ab%3A0x78549709ed24ba37!2sPlaza%20de%20Armas%2C%20San%20Antonio%2C%20TX%2078205!5e0!3m2!1sen!2sus!4v1766779242003!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 - **The Governor’s Campaign:** In 1732, the Governor launched a formal military campaign against the Apaches.
     
 - **The Failed Peace:** This campaign resulted in a superficial "peace". Under the guise of this treaty, Apache groups entered San Antonio—which was geographically exposed and near their territories—to commit outrages and instill panic among the residents.
@@ -381,6 +389,10 @@ This entry documents a brief period of regional stability during the years prece
 
 ## 1732 - Death - Of Son Manuel de Urrutia
 ## 1733 - Captaincy of San Antonio (1733)
+
+### San Antonio, Texas 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11689.223276427148!2d-98.49685645140516!3d29.422160712067765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2aea7e4ab%3A0x78549709ed24ba37!2sPlaza%20de%20Armas%2C%20San%20Antonio%2C%20TX%2078205!5e0!3m2!1sen!2sus!4v1766779242003!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 This period marks the pinnacle of Joseph de Urrutia’s career, as he was formally recognized as the crown's most vital asset for the survival of San Antonio.
 
 ---
@@ -569,6 +581,11 @@ An administrative record from August 1737 highlights Joseph de Urrutia’s relia
 ```
 
 ## 1739 - The San Saba Campaign (1738–1739)
+
+### San Saba Region 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2366443.8125189487!2d-99.82736289322536!3d29.79040119304701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8659c9beadc9ce67%3A0xbc69cd73d2d7152!2sMenard%2C%20TX%2076859!5e0!3m2!1sen!2sus!4v1766779417766!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
 In the final years of his career, Joseph de Urrutia took decisive, independent action to address the deteriorating security of San Antonio, culminating in a major military expedition into the Texas interior.
 
 ---
@@ -603,6 +620,9 @@ In the final years of his career, Joseph de Urrutia took decisive, independent a
 The final years of Captain Joseph de Urrutia’s life and the subsequent settlement of his estate provide an intimate look at the family legacy and the material culture of a high-ranking Spanish officer on the Texas frontier.
 
 ---
+### San Antonio, Texas
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19099.287183100652!2d-98.50021137040663!3d29.421711219379013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2b28db0cb%3A0x5e6a80f904b7b045!2sSpanish%20Governor&#39;s%20Palace!5e0!3m2!1sen!2sus!4v1766779140158!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ### 1740: Death and Succession
 
 * **Succession of Command:** Joseph de Urrutia was succeeded as Captain of the Presidio de Béxar by his son, **Toribio de Urrutia**, who continued the family’s military leadership in San Antonio.
