@@ -309,4 +309,142 @@ By official decree, Joseph de Urrutia was ordered to take immediate possession o
 ```
 
 
-l
+## 1734 - The Apache Terror (1734–1738)
+
+Between 1734 and 1738, Joseph de Urrutia's tenure as Captain of the Presidio de Béxar was defined by the relentless "Apache terror" that dictated the daily lives of San Antonio's settlers.
+
+
+- **Daily Life and Constant Vigilance:** From 1734 to 1738, the history of San Antonio was a grim succession of Indian raids and murders, making the Apaches the most prominent concern for everyday citizens.
+    
+- **Signal Firearm Protocols:** To prevent false alarms, the Governor issued strict orders that no citizen of Béxar could discharge a firearm unless they witnessed Indians entering the settlement; a single shot served as the formal signal of an attack.
+    
+- **Urrutia’s Enforcement:** Carrying out these orders, Captain Joseph de Urrutia mandated that any citizen needing to fire a gun for cleaning purposes must first obtain an official license from the captain of the guard.
+    
+- **Confirmed Service Record:** On November 13, 1734, official records noted that Captain Commander Jose de Urrutia had served the Spanish crown for over 40 years with the full approval of the authorities.
+    
+- **The "Red Hair" Conspiracy:** Urrutia reported a major rumored plot involving the influential Apache chief **[[0004 - Persons/C/Cabellos Colorados\|Cabellos Colorados]]** (Red Hair). Before his imprisonment, the chief allegedly conspired with the "Capitán Grande" of the Apache tribes to steal all horses from the presidios of Béxar, Río Grande, Coahuila, and Sacramento, followed by a total slaughter of the inhabitants.
+    
+- **Period of Quiet (1737–1738):** During the imprisonment of Cabellos Colorados and his band (December 1737 to September 1738), San Antonio experienced a rare period of peace with no recorded Apache depredations.
+    
+- **Formal Investigation:** Governor Orobio Bazterra eventually launched an investigation into Cabellos Colorados' actions to provide the Viceroy with evidence of Apache bad faith and to secure further relief for the people of Béxar.
+    
+```
+### Source
+
+**Secondary Source:** Chabot, Frederick C. _With The Makers of Texas: Genealogies of the Early San Antonio Families_.
+```
+
+
+## 1735 - Military Administration & Legal Conflict (1735)
+
+The year 1735 reveals the complex administrative and financial responsibilities Joseph de Urrutia held as Captain of the Presidio de Béxar. Records document a significant legal dispute over military logistics and his role as a financial intermediary for his soldiers.
+
+- **April – June 1735: The Reimbursement Dispute (_Urrutia vs. Costales_)** Joseph de Urrutia entered into a protracted legal battle with **[[0004 - Persons/C/Gabriel Costales\|Gabriel Costales]]**, Captain of the Presidio of La Bahía, concerning expenses for a squadron of La Bahía soldiers stationed at Béxar.
+    
+    - **Authorization of Supplies:** Acting on an order from Governor [[0004 - Persons/S/Manuel de Sandoval\|Manuel de Sandoval]], Urrutia had provided horses, arms, and provisions to the La Bahía soldiers to ensure the "royal service" was not interrupted.
+        
+    - **The Detailed Ledger:** Urrutia presented meticulous notebooks documenting items furnished to the soldiers, including corn, piloncillo (sugar), soap, tobacco, salt, shoes, and horses.
+        
+    - **Accusations of Profiteering:** Captain Costales contested the bill (totaling 1,048 pesos), accusing Urrutia of greed and charging excessive prices—specifically for horses and corn—claiming Urrutia was seeking "ambitious purpose and harm [to] my interests".
+        
+    - **Urrutia’s Health and Appeal:** During the proceedings, Urrutia was notably confined to his bed due to illness ("I am in bed, as everybody knows"). Lacking legal counsel, he eventually recused the Governor’s local judgment and appealed the case to the **Superior Government of the Viceroy** in Mexico City.
+        
+- **September 1735: Power of Attorney and Financial Oversight** Urrutia’s influence extended into the personal finances of his garrison.
+    
+    - **Salary Collection:** Several soldiers granted Urrutia (or his associate [[0004 - Persons/A/Juan de Angulo\|Juan de Angulo]]) power of attorney to collect their annual salaries directly from the royal treasury.
+        
+    - **Tax Application:** A portion of these collected salaries was used to pay Urrutia’s own taxes, demonstrating a high level of financial entanglement between the Captain and his men.
+        
+#### Genealogical Insights & Household Details
+
+- **Family References:** In 1734, Governor Sandoval sent "affectionate regards" to Urrutia’s wife, **Doña Juana**.
+    
+- **Domestic Goods:** The military ledgers of 1735 show that Urrutia was supplying not just military gear, but also domestic items such as **"woman's shoes"** for the soldiers' wives, highlighting the presence of families within the presidio community.
+    
+
+```
+### **Sources**
+
+- **Primary Source:** _Bexar Archives_, April 27, 1735 – June 12, 1735 (Identifier: `e_bx_001927`). Proceedings: Joseph de Urrutia vs. Gabriel Costales.
+    
+- **Primary Source:** _Bexar Archives_, September 25, 1735 (Identifier: `e_bx_001939`). Powers of attorney granted to Joseph de Urrutia.
+    
+- **Secondary Source:** Chabot, Frederick C. _With The Makers of Texas: Genealogies of the Early San Antonio Families_.
+```
+
+
+
+## 1736 - Personal Legal Disputes (1736
+---
+
+In 1736, Captain Joseph de Urrutia faced further legal and financial challenges within the San Antonio community, as documented by records from the Bexar Archives.
+
+
+- **Financial Litigation (_Rodríguez vs. Urrutia_):** In April 1736, a legal proceeding was initiated by **[[0004 - Persons/R/José Antonio Rodríguez\|José Antonio Rodríguez]]** against Captain Joseph de Urrutia.
+    
+- **Demand for Payment:** Rodríguez filed a formal demand seeking the payment of a specific amount of money owed to him by Urrutia.
+    
+- **Chronological Context:** This dispute occurred during Urrutia's active tenure as the Captain of the Presidio de Béxar, following the previous year's extensive litigation with Captain Gabriel Costales.
+    
+- **Administrative Documentation:** The proceedings were recorded and translated as part of the official Spanish colonial records for the Province of Texas.
+
+
+```
+### Source
+
+**Primary Source:** _Bexar Archives_, April 23, 1736 – April 30, 1736 (Identifier: `e_bx_001943`). Proceedings: José Antonio Rodríguez vs. José de Urrutia.
+```
+
+## 1737 - Captivity of Cabellos Colorados (1737)
+---
+
+The imprisonment of the influential Lipan Apache chief **Cabellos Colorados** (Red Hair) in late 1737 brought a temporary and significant peace to San Antonio, while highlighting Joseph de Urrutia’s role in uncovering frontier conspiracies.
+
+
+**December 11, 1737: Capture of the Chief**
+* Following years of raids, Spanish forces captured the Lipan Apache chief **Cabellos Colorados** at [[0009 - Places/C/El Chapintillo\|El Chapintillo]], located approximately 30 miles from San Antonio.
+* The chief and his band were brought to the **Presidio de Béxar** as prisoners.
+
+
+ **Discovery of a Frontier Conspiracy**
+* Captain Joseph de Urrutia reported a chilling rumor regarding the chief's plans prior to his capture.
+* According to Urrutia, Cabellos Colorados had allegedly conspired with the "Capitán Grande" of the Apache tribes to orchestrate a massive, synchronized strike.
+* The plot involved stealing all horses from the presidios of **Béxar, Río Grande, Coahuila, and Sacramento**, followed by a systematic slaughter of the regional inhabitants.
+
+
+**The Period of "Forced Peace"**
+* From December 1737 through September 1738, while the chief was held at the presidio, Apache depredations at Béxar ceased entirely.
+* This lull in violence confirmed the chief's immense reputation and influence over his people.
+
+
+ **Governor’s Formal Investigation**
+* **Governor [[0004 - Persons/O/Prudencio de Orobio y Basterra\|Prudencio de Orobio y Basterra]]** initiated a formal investigation into the crimes committed by Cabellos Colorados.
+* Evidence of "Apache bad faith" was meticulously compiled to petition the Viceroy for permanent relief and defensive reinforcements for the San Antonio settlers.
+
+
+```
+### **Sources**
+
+* **Secondary Source:** Chabot, Frederick C. *With The Makers of Texas: Genealogies of the Early San Antonio Families*.
+* **Reference:** *Handbook of Texas Online*, "Cabellos Colorados," Texas State Historical Association.
+* **Research Report:** *Mescalero Apache Research Report*, Texas Department of Transportation.
+```
+
+### August 1737 - Formal Representation (1737)
+An administrative record from August 1737 highlights Joseph de Urrutia’s reliance on professional agents to manage his complex legal and financial affairs while serving as Captain of the Presidio de Béxar.
+
+
+* **August 23, 1737: Power of Attorney**
+* Joseph de Urrutia granted a formal power of attorney to **[[0004 - Persons/G/Ignacio González de Jordán\|Ignacio González de Jordán]]**.
+* This document allowed Jordán to act as Urrutia's legal representative in official matters, likely facilitating the collection of salaries or the resolution of the various lawsuits (such as *Urrutia vs. Costales* or *Rodríguez vs. Urrutia*) that marked this period.
+
+
+* **Chronological Alignment**
+* This legal delegation occurred just months before the capture of Chief **Cabellos Colorados** in December 1737, a period during which Urrutia was managing intense frontier hostilities alongside his administrative duties.
+* The use of a formal representative suggests that Urrutia’s responsibilities at the Presidio—and perhaps his recurring health issues noted in 1735—necessitated professional assistance for his business in Mexico City or other provinces.
+
+```
+### Source
+
+**Primary Source:** *Bexar Archives*, August 23, 1737 (Identifier: `e_bx_001947`). Translation of Power of Attorney: José de Urrutia to Ignacio González de Jordán.
+```
