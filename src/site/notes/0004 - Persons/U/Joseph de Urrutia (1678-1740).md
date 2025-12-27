@@ -788,6 +788,8 @@ The final years of Captain Joseph de Urrutia’s life and the subsequent settlem
         referrerpolicy="no-referrer-when-downgrade">
     </iframe>
 </div>
+
+
 ### 1740: Death and Succession
 
 * **Succession of Command:** Joseph de Urrutia was succeeded as Captain of the Presidio de Béxar by his son, **[[0004 - Persons/U/Toribio de Urrutia\|Toribio de Urrutia]]**, who continued the family’s military leadership in San Antonio.
@@ -807,6 +809,7 @@ The final years of Captain Joseph de Urrutia’s life and the subsequent settlem
         referrerpolicy="no-referrer-when-downgrade">
     </iframe>
 </div>
+
 ### 1741: Estate Settlement and Inventory
 
 * **Testamentary Proceedings:** Legal proceedings to settle the estate began on **February 27, 1741**, led by executor Joseph de Plaza to ensure debts were paid and the remainder divided among the heirs.

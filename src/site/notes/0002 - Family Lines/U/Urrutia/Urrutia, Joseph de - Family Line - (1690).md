@@ -18,11 +18,17 @@
 | [[0004 - Persons/U/Ignacio-Cayetano de Urrutia\|Ignacio-Cayetano de Urrutia]]                                                               | 1716       |
 | [[0004 - Persons/U/Joseph-Miguel de Urrutia\|Joseph-Miguel de Urrutia]]                                                                     | 1718       |
 | [[0004 - Persons/U/Anna-Maria-Gertrudis-Josephina de Urrutia\|Anna-Maria-Gertrudis-Josephina de Urrutia]]                                   | 1719       |
+| [[0004 - Persons/U/Joseph Manuel Nepomuseno de Urrutia-Valdes\|Joseph Manuel Nepomuseno de Urrutia-Valdes]]                                 | 1740       |
+| [[0004 - Persons/U/Juana Francisca de Urrutia-Valdez\|Juana Francisca de Urrutia-Valdez]]                                                   | 1745       |
+| [[0004 - Persons/U/Maria Josefa de Urrutia-Valdes\|Maria Josefa de Urrutia-Valdes]]                                                         | 1749       |
+| [[0004 - Persons/U/Esmergilda de Urrutia-Valdes\|Esmergilda de Urrutia-Valdes]]                                                             | 1751       |
+| [[0004 - Persons/U/Juan Antonio de Urrutia-Valdes\|Juan Antonio de Urrutia-Valdes]]                                                         | 1754       |
+| [[0004 - Persons/U/Franco Sosthenes de Urrutia-Valdes\|Franco Sosthenes de Urrutia-Valdes]]                                                 | 1758       |
+| [[0004 - Persons/U/Josefa Guadalupe de Urrutia-Valdes\|Josefa Guadalupe de Urrutia-Valdes]]                                                 | 1760       |
+| [[0004 - Persons/U/Josefa Juana Gertrudes de Urrutia-Valdes\|Josefa Juana Gertrudes de Urrutia-Valdes]]                                     | 1764       |
 
 { .block-language-dataview}
 
-
-## TEST
 
 
 ######  Earliest Found Arrival
