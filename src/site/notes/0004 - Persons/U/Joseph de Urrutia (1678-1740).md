@@ -278,3 +278,55 @@ This entry documents a brief period of regional stability during the years prece
 
 **Secondary Source:** Chabot, Frederick C. _With The Makers of Texas: Genealogies of the Early San Antonio Families_.
 ```
+
+## 1732 - Death - Of Son [[0004 - Persons/U/Manuel de Urrutia\|Manuel de Urrutia]]
+
+## 1733 - Captaincy of San Antonio (1733)
+### Location: San Antonio, Texas 
+This period marks the pinnacle of Joseph de Urrutia’s career, as he was formally recognized as the crown's most vital asset for the survival of San Antonio.
+
+* **July 4, 1733: Observations on Tribal Alliances**
+In a letter written weeks before his official appointment, Urrutia noted a significant shift in frontier politics. He expressed surprise that the **Jumanes** had joined his enemies, the **Apaches**, noting that during his time living among them (1693–1700), these groups were "declared enemies".
+* **July 18, 1733: The Recommendation for Command**
+Following a failed peace treaty and the murder of Spanish soldiers, **Don [[Juan de Olivan Rebolledo**\|Juan de Olivan Rebolledo**]] formally recommended Urrutia for the command of the Presidio of San Antonio.
+* **Justification:** The recommendation was based on Urrutia's "seven years" of immersion with tribes hostile to the Apaches and his status as the best-informed Spaniard on Indian affairs, with **40 years of service** across Coahuila, Nuevo León, and Texas.
+* **July 23, 1733: Formal Appointment as Captain**
+By official decree, Joseph de Urrutia was ordered to take immediate possession of the **Presidio of San Antonio de Béjar**.
+* **Mission:** His primary charge was to leverage his old alliances with indigenous tribes to form a united front against the Apaches.
+* **Military Reinforcements:** Under his command, the garrison was increased by 25 men—drawn from the presidios of La Bahía and Los Adaes—to protect the *Villa* of San Fernando and the local missions from "relentless" Apache harassment.
+
+
+```
+### **Sources**
+
+* **Primary Source:** *Bexar Archives*, July 18–24, 1733 (Rebolledo’s Opinion and Casafuerte’s Order).
+* **Secondary Source:** Chabot, Frederick C. *With The Makers of Texas: Genealogies of the Early San Antonio Families*.
+* **Reference:** *Texas Handbook Online*, Texas State Historical Association.
+```
+
+
+## 1734 - The Apache Terror (1734–1738)*
+---
+
+Between 1734 and 1738, Joseph de Urrutia's tenure as Captain of the Presidio de Béxar was defined by the relentless "Apache terror" that dictated the daily lives of San Antonio's settlers.
+
+
+- **Daily Life and Constant Vigilance:** From 1734 to 1738, the history of San Antonio was a grim succession of Indian raids and murders, making the Apaches the most prominent concern for everyday citizens.
+    
+- **Signal Firearm Protocols:** To prevent false alarms, the Governor issued strict orders that no citizen of Béxar could discharge a firearm unless they witnessed Indians entering the settlement; a single shot served as the formal signal of an attack.
+    
+- **Urrutia’s Enforcement:** Carrying out these orders, Captain Joseph de Urrutia mandated that any citizen needing to fire a gun for cleaning purposes must first obtain an official license from the captain of the guard.
+    
+- **Confirmed Service Record:** On November 13, 1734, official records noted that Captain Commander Jose de Urrutia had served the Spanish crown for over 40 years with the full approval of the authorities.
+    
+- **The "Red Hair" Conspiracy:** Urrutia reported a major rumored plot involving the influential Apache chief **[[0004 - Persons/C/Cabellos Colorados\|Cabellos Colorados]]** (Red Hair). Before his imprisonment, the chief allegedly conspired with the "Capitán Grande" of the Apache tribes to steal all horses from the presidios of Béxar, Río Grande, Coahuila, and Sacramento, followed by a total slaughter of the inhabitants.
+    
+- **Period of Quiet (1737–1738):** During the imprisonment of Cabellos Colorados and his band (December 1737 to September 1738), San Antonio experienced a rare period of peace with no recorded Apache depredations.
+    
+- **Formal Investigation:** Governor [[Orobio Bazterra\|Orobio Bazterra]] eventually launched an investigation into Cabellos Colorados' actions to provide the Viceroy with evidence of Apache bad faith and to secure further relief for the people of Béxar.
+    
+```
+### Source
+
+**Secondary Source:** Chabot, Frederick C. _With The Makers of Texas: Genealogies of the Early San Antonio Families_.
+```
