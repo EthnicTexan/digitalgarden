@@ -99,13 +99,8 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 ## 1697 - JAN - 06 - MARRIAGE - To [[0004 - Persons/R/Antonia Ramon\|Antonia Ramon]]
 ---
 
-| **Details**                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------- |
-| **Joseph de Urrutia** (Male) married **Antonia (Antta.) Ramón** at Santiago Apóstol, Monclova, Coahuila, Mexico. |
-
+**Joseph de Urrutia** (Male) married **Antonia (Antta.) Ramón** at Santiago Apóstol, Monclova, Coahuila, Mexico.
 ### Location - Santiago Apostol, Monclova, Coahuila
-
-
 
 
 ---
