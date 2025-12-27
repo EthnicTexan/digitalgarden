@@ -281,6 +281,8 @@ This entry documents a brief period of regional stability during the years prece
 
 ## 1732 - Death - Of Son [[0004 - Persons/U/Manuel de Urrutia\|Manuel de Urrutia]]
 
+* record not located 
+
 ## 1733 - Captaincy of San Antonio (1733)
 ### Location: San Antonio, Texas 
 This period marks the pinnacle of Joseph de Urrutia’s career, as he was formally recognized as the crown's most vital asset for the survival of San Antonio.
@@ -306,11 +308,8 @@ By official decree, Joseph de Urrutia was ordered to take immediate possession o
 * **Reference:** *Texas Handbook Online*, Texas State Historical Association.
 ```
 
-## 1734 - The Apache Terror (1734–1738)*
----
-
+## 1734 - The Apache Terror (1734–1738)
 Between 1734 and 1738, Joseph de Urrutia's tenure as Captain of the Presidio de Béxar was defined by the relentless "Apache terror" that dictated the daily lives of San Antonio's settlers.
-
 
 - **Daily Life and Constant Vigilance:** From 1734 to 1738, the history of San Antonio was a grim succession of Indian raids and murders, making the Apaches the most prominent concern for everyday citizens.
 - **Signal Firearm Protocols:** To prevent false alarms, the Governor issued strict orders that no citizen of Béxar could discharge a firearm unless they witnessed Indians entering the settlement; a single shot served as the formal signal of an attack.
