@@ -92,7 +92,7 @@ La Villa De San Fernando Y Presidio De San Antonio, Mixed Registeres 1741 - 1760
 
 
 
-## 1779 - JAN - 19 -  BIRTH - [[0004 - Persons/S/Sandobal/MA Ana Petra Sandobal-Urrutia\|MA Ana Petra Sandobal-Urrutia]]
+## 1779 - JAN - 19 -  BIRTH - [[0004 - Persons/S/Sandobal/MA Ana Petra Sandobal-Urrutia (1779-1807)\|MA Ana Petra Sandobal-Urrutia (1779-1807)]]
 
 ### Location - 
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
