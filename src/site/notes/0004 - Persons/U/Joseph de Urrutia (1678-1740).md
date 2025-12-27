@@ -169,7 +169,7 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 >   -  _San Francisco de los Tejas Mission_, Handbook of Texas Online (TSHA).
 ```
 
-## 1697 - JAN - 06 - MARRIAGE - To [[0004 - Persons/R/Antonia Ramon\|Antonia Ramon]]
+## 1697 - JAN - 06 - MARRIAGE - To [[0004 - Persons/R/Ramon/Antonia Ramon\|Antonia Ramon]]
 
 ---
 
@@ -259,7 +259,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     </iframe>
 </div>
 
-- **Marriage:** She married **[[0004 - Persons/G/Pedro-Jose Godoy\|Pedro-Jose Godoy]]** in Boca de Leones, Nuevo Leon, Mexico.
+- **Marriage:** She married **[[0004 - Persons/G/Godoy/Pedro-Jose Godoy\|Pedro-Jose Godoy]]** in Boca de Leones, Nuevo Leon, Mexico.
     
 - **Death:** She passed away approximately in 1774 in Boca de Leones.
     
@@ -322,11 +322,11 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     </iframe>
 </div>
 
-- **Marriages:** First to **[[0004 - Persons/G/Ignacio Gonzalez-de-Inclan\|Ignacio Gonzalez-de-Inclan]]** (abt. 1735); Second to **[[0004 - Persons/O/Pedro-Mariano de Ocon-y-Trillo\|Pedro-Mariano de Ocon-y-Trillo]]** (1746).
+- **Marriages:** First to **[[0004 - Persons/G/Gonzalez/Ignacio Gonzalez-de-Inclan\|Ignacio Gonzalez-de-Inclan]]** (abt. 1735); Second to **[[0004 - Persons/O/Pedro-Mariano de Ocon-y-Trillo\|Pedro-Mariano de Ocon-y-Trillo]]** (1746).
     
 - **Land Dispute:** On June 18, 1745, she appeared before the city council to object to land being granted to Don Luis Antonio Menchaca.
     
-- **Property Sale:** In 1746, as a widow, she sold property on the north side of the plazas in San Antonio to Lieutenant Don [[0004 - Persons/R/Diego Ramon\|Diego Ramon]].
+- **Property Sale:** In 1746, as a widow, she sold property on the north side of the plazas in San Antonio to Lieutenant Don [[0004 - Persons/R/Ramon/Diego Ramon\|Diego Ramon]].
     
 - **Death:** After July 19, 1745, in San Antonio, Texas.
     
@@ -406,7 +406,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ---
 
 - **Lasting Indigenous Influence:** Even years after his departure, Urrutia and [[0004 - Persons/H/Father Francisco Hidalgo\|Father Francisco Hidalgo]] remained deeply respected by the **Asinais (Hasinai)** people.
-- **The St. Denis Encounter:** When the French explorer **[[0004 - Persons/S/Louis Juchereau de St. Denis\|Louis Juchereau de St. Denis]]** arrived among the Asinais in 1714, the tribe used his expedition as a diplomatic channel to reach Spanish authorities.
+- **The St. Denis Encounter:** When the French explorer **[[0004 - Persons/S/St. Denis/Louis Juchereau de St. Denis\|Louis Juchereau de St. Denis]]** arrived among the Asinais in 1714, the tribe used his expedition as a diplomatic channel to reach Spanish authorities.
 - **A Specific Request for Leadership:** The Asinais requested that St. Denis petition the Mexican government to send two specific men back to them:
     - **Father Francisco Hidalgo:** To serve as their minister and missionary.
     - **"Captain Urrutia":** Specifically requested because of the years he spent living among them, his mastery of their **language**, and his intimate knowledge of their **customs**.
@@ -452,7 +452,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 </div>
 
 
-- **Marriage:** Married **[[0004 - Persons/S/Rosa Sanchez-Navarro-y-Gomez\|Rosa Sanchez-Navarro-y-Gomez]]** in Saltillo, Coahuila.
+- **Marriage:** Married **[[0004 - Persons/S/Sanchez/Rosa Sanchez-Navarro-y-Gomez\|Rosa Sanchez-Navarro-y-Gomez]]** in Saltillo, Coahuila.
 
 ## Abt. 1718 - BIRTH - [[0004 - Persons/U/Joseph-Miguel de Urrutia\|Joseph-Miguel de Urrutia]]
 
@@ -622,7 +622,7 @@ The year 1735 reveals the complex administrative and financial responsibilities 
 
 - **April – June 1735: The Reimbursement Dispute (_Urrutia vs. Costales_)** Joseph de Urrutia entered into a protracted legal battle with **[[0004 - Persons/C/Gabriel Costales\|Gabriel Costales]]**, Captain of the Presidio of La Bahía, concerning expenses for a squadron of La Bahía soldiers stationed at Béxar.
     
-    - **Authorization of Supplies:** Acting on an order from Governor [[0004 - Persons/S/Manuel de Sandoval\|Manuel de Sandoval]], Urrutia had provided horses, arms, and provisions to the La Bahía soldiers to ensure the "royal service" was not interrupted.
+    - **Authorization of Supplies:** Acting on an order from Governor [[0004 - Persons/S/Sandoval/Manuel de Sandoval\|Manuel de Sandoval]], Urrutia had provided horses, arms, and provisions to the La Bahía soldiers to ensure the "royal service" was not interrupted.
         
     - **The Detailed Ledger:** Urrutia presented meticulous notebooks documenting items furnished to the soldiers, including corn, piloncillo (sugar), soap, tobacco, salt, shoes, and horses.
         
@@ -662,7 +662,7 @@ The year 1735 reveals the complex administrative and financial responsibilities 
 In 1736, Captain Joseph de Urrutia faced further legal and financial challenges within the San Antonio community, as documented by records from the Bexar Archives.
 
 
-- **Financial Litigation (_Rodríguez vs. Urrutia_):** In April 1736, a legal proceeding was initiated by **[[0004 - Persons/R/José Antonio Rodríguez\|José Antonio Rodríguez]]** against Captain Joseph de Urrutia.
+- **Financial Litigation (_Rodríguez vs. Urrutia_):** In April 1736, a legal proceeding was initiated by **[[0004 - Persons/R/Rodriguez/José Antonio Rodríguez\|José Antonio Rodríguez]]** against Captain Joseph de Urrutia.
     
 - **Demand for Payment:** Rodríguez filed a formal demand seeking the payment of a specific amount of money owed to him by Urrutia.
     
@@ -718,7 +718,7 @@ An administrative record from August 1737 highlights Joseph de Urrutia’s relia
 
 
 * **August 23, 1737: Power of Attorney**
-* Joseph de Urrutia granted a formal power of attorney to **[[0004 - Persons/G/Ignacio González de Jordán\|Ignacio González de Jordán]]**.
+* Joseph de Urrutia granted a formal power of attorney to **[[0004 - Persons/G/Gonzalez/Ignacio González de Jordán\|Ignacio González de Jordán]]**.
 * This document allowed Jordán to act as Urrutia's legal representative in official matters, likely facilitating the collection of salaries or the resolution of the various lawsuits (such as *Urrutia vs. Costales* or *Rodríguez vs. Urrutia*) that marked this period.
 
 

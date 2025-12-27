@@ -6,6 +6,14 @@
 ---
 Join us as we explore the genealogies and history of Texas! 
 
+##### A Quick Note on Names 
+To help you navigate our family history, we use a specific naming style:
+1. **Daily Names:** If you see a name in (parentheses), that’s what the person usually went by.
+2. **Avoiding Confusion:** We use the Spanish tradition of **"Father’s Surname-Mother’s Surname."** This helps us keep everyone’s branches clear and ensures that persons with the same name don't get mixed up.
+
+### Temporary Helper for DEC 29 meeting > [[Dec 29 meeting\|Dec 29 meeting]]
+
+
 # Texan Era's
 ---
 Families are categorized by the era in which they **first established themselves** in Texas. 
