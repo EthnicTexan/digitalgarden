@@ -34,6 +34,7 @@ Joseph was born in Spain in the year 1678
         referrerpolicy="no-referrer-when-downgrade">
     </iframe>
 </div>
+
 #### **1690–1691: Arrival at the First East Texas Mission**
 
 - **May 1690:** The **San Francisco de los Tejas Mission** is established on San Pedro Creek (near present-day Augusta) as the first Spanish mission in East Texas.
@@ -164,6 +165,7 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 ```
 
 ## 1697 - JAN - 06 - MARRIAGE - To [[0004 - Persons/R/Antonia Ramon\|Antonia Ramon]]
+---
 
 **Joseph de Urrutia** (Male) married **Antonia (Antta.) Ramón** at Santiago Apóstol, Monclova, Coahuila, Mexico.
 ### Location - Santiago Apostol, Monclova, Coahuila
@@ -187,9 +189,10 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 
 
 ## 1698 - BIRTH - Child: [[0004 - Persons/U/Antonia de Urrutia-Ramon\|Antonia de Urrutia-Ramon]]
-
+---
 
 ## 1700 - Return from Expedition
+---
 ### Location - San Juan Bautista Mission 
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
     <iframe 
@@ -219,6 +222,8 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 
 ## 1703 - MARRIAGE - To [[0004 - Persons/F/Rosa Flores-Y-Valdez\|Rosa Flores-Y-Valdez]]
+---
+
 ### Location - Saltillo, Coahuila, Mexico
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
     <iframe 
@@ -231,6 +236,8 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 </div>
 
 ## Abt. 1704 - BIRTH -[[ Rosa-Micaela de Urrutia\| Rosa-Micaela de Urrutia]]
+---
+
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
     <iframe 
@@ -247,6 +254,8 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 - **Death:** She passed away approximately in 1774 in Boca de Leones.
     
 ## 1706 - December 05 - BIRTH - [[0004 - Persons/U/Cathalina de Urrutia\|Cathalina de Urrutia]]
+---
+
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
     <iframe 
@@ -263,6 +272,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 - **Death:** Occurred between 1778 and 1809 in Boca de Leones, Nuevo Leon.
     
 ## Abt. 1707 - BIRTH - Captain [[0004 - Persons/U/Toribio de Urrutia\|Toribio de Urrutia]]
+---
 ### San Juan Bautista del Rio Grande, Presidio del Norte, Coahuila, Mexico
 
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
@@ -287,6 +297,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     
 
 ## 1709 - July 25 - BIRTH - [[0004 - Persons/U/Juana-de-Dios de Urrutia\|Juana-de-Dios de Urrutia]]
+---
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
     <iframe 
@@ -308,6 +319,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     
 
 ## Abt. 1710 - BIRTH - [[0004 - Persons/U/Joaquin de Urrutia\|Joaquin de Urrutia]]
+---
 ### Saltillo, Coahuila, Mexico
 
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
@@ -327,6 +339,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     
 
 ## Abt. 1711 - BIRTH - [[0004 - Persons/U/Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)\|Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)]]
+---
 ### Saltillo, Coahuila, Mexico
 
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
@@ -357,6 +370,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 
 ## 1712/13 - January 15 - BIRTH - [[0004 - Persons/U/Manuel de Urrutia\|Manuel de Urrutia]]
+---
 
 ### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
@@ -372,6 +386,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 **Note:** The records indicate that he died young.
 
 ## 1714 -  Petition for Urrutia’s Return
+---
 
 - **Lasting Indigenous Influence:** Even years after his departure, Urrutia and [[0004 - Persons/H/Father Francisco Hidalgo\|Father Francisco Hidalgo]] remained deeply respected by the **Asinais (Hasinai)** people.
 - **The St. Denis Encounter:** When the French explorer **[[0004 - Persons/S/Louis Juchereau de St. Denis\|Louis Juchereau de St. Denis]]** arrived among the Asinais in 1714, the tribe used his expedition as a diplomatic channel to reach Spanish authorities.
@@ -388,6 +403,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ```
 
 ## 1715 - Authority and the "Gran Quivira" Proposal
+---
 
 - **Recognition as an Expert:** Following his return from his "seven years" in the wilderness, Urrutia was recognized in Mexico as the leading authority on the indigenous peoples of Texas.
     
@@ -403,6 +419,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 **Historical Note:** The mention of Urrutia serving at the **Mines of Mazapil** without cost to the Royal Treasury demonstrates his high social standing and personal wealth during this period.
 
 ## 1716 - September 15 - BIRTH -[[0004 - Persons/U/Ignacio-Cayetano de Urrutia\|Ignacio-Cayetano de Urrutia]]
+---
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
@@ -419,6 +436,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 - **Marriage:** Married **[[0004 - Persons/S/Rosa Sanchez-Navarro-y-Gomez\|Rosa Sanchez-Navarro-y-Gomez]]** in Saltillo, Coahuila.
 
 ## Abt. 1718 - BIRTH - [[0004 - Persons/U/Joseph-Miguel de Urrutia\|Joseph-Miguel de Urrutia]]
+---
 ### Monclova, Coahuila, Mexico
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
     <iframe 
@@ -438,6 +456,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 
 ## 1719 - June 06 - BIRTH [[0004 - Persons/U/Anna-Maria-Gertrudis-Josephina de Urrutia\|Anna-Maria-Gertrudis-Josephina de Urrutia]]
+---
 ### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
     <iframe 
@@ -452,6 +471,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 - **Marriage:** Married **[[0004 - Persons/T/Antonio-Nicolas de Trevino-Gutierrez\|Antonio-Nicolas de Trevino-Gutierrez]]** in 1740.
 
 ## 1726 - The Calm Before the Conflict (1726–1730)
+---
 
 This entry documents a brief period of regional stability during the years preceding Joseph de Urrutia's appointment as Captain in San Antonio.
 
@@ -466,6 +486,7 @@ This entry documents a brief period of regional stability during the years prece
 ```
 
 ## 1732 - The Appointment to Captaincy (1732–1733)
+---
 ### Location: San Antonio, Texas
 
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
@@ -493,10 +514,12 @@ This entry documents a brief period of regional stability during the years prece
 ```
 
 ## 1732 - Death - Of Son [[0004 - Persons/U/Manuel de Urrutia\|Manuel de Urrutia]]
+---
 
 * record not located 
 
 ## 1733 - Captaincy of San Antonio
+---
 
 ### Location: San Antonio, Texas
 
@@ -538,6 +561,8 @@ By official decree, Joseph de Urrutia was ordered to take immediate possession o
 
 
 ## 1734 - The Apache Terror (1734–1738)
+---
+
 
 Between 1734 and 1738, Joseph de Urrutia's tenure as Captain of the Presidio de Béxar was defined by the relentless "Apache terror" that dictated the daily lives of San Antonio's settlers.
 
@@ -564,6 +589,7 @@ Between 1734 and 1738, Joseph de Urrutia's tenure as Captain of the Presidio de 
 
 
 ## 1735 - Military Administration & Legal Conflict (1735)
+---
 
 The year 1735 reveals the complex administrative and financial responsibilities Joseph de Urrutia held as Captain of the Presidio de Béxar. Records document a significant legal dispute over military logistics and his role as a financial intermediary for his soldiers.
 
