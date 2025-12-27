@@ -4,10 +4,21 @@
 
 # Joseph de Urrutia (1678-1740)
 ---
+![Commandancia](https://upload.wikimedia.org/wikipedia/commons/0/0e/Spanish_Governor%27s_Palace%2C_San_Antonio%2C_Texas_%2850227405701%29.jpg)
+
 
 ## 1678  - BIRTH 
 Joseph was born in Spain in the year 1678
 ### Address/ Location - Guipúzcoa, Spain
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3146061.2573427586!2d-4.354952093720903!3d42.84698275489759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5035381ce4c9cd%3A0x304f58273c9ca70!2sGipuzkoa%2C%20Spain!5e0!3m2!1sen!2sus!4v1766803130252!5m2!1sen!2sus"
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 
 ## 1690 - Expedition
