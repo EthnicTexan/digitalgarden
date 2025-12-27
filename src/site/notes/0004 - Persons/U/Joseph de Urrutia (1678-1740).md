@@ -283,3 +283,28 @@ This entry documents a brief period of regional stability during the years prece
 
 * record not located 
 
+## 1733 - Captaincy of San Antonio (1733)
+### Location: San Antonio, Texas 
+This period marks the pinnacle of Joseph de Urrutia’s career, as he was formally recognized as the crown's most vital asset for the survival of San Antonio.
+
+**July 4, 1733: Observations on Tribal Alliances**
+In a letter written weeks before his official appointment, Urrutia noted a significant shift in frontier politics. He expressed surprise that the **Jumanes** had joined his enemies, the **Apaches**, noting that during his time living among them (1693–1700), these groups were "declared enemies".
+
+**July 18, 1733: The Recommendation for Command**
+Following a failed peace treaty and the murder of Spanish soldiers, **Don [[Juan de Olivan Rebolledo**\|Juan de Olivan Rebolledo**]] formally recommended Urrutia for the command of the Presidio of San Antonio.
+
+* **Justification:** The recommendation was based on Urrutia's "seven years" of immersion with tribes hostile to the Apaches and his status as the best-informed Spaniard on Indian affairs, with **40 years of service** across Coahuila, Nuevo León, and Texas.
+* **July 23, 1733: Formal Appointment as Captain**
+	By official decree, Joseph de Urrutia was ordered to take immediate possession of the **Presidio of San Antonio de Béjar**.
+* **Mission:** His primary charge was to leverage his old alliances with indigenous tribes to form a united front against the Apaches.
+* **Military Reinforcements:** Under his command, the garrison was increased by 25 men—drawn from the presidios of La Bahía and Los Adaes—to protect the *Villa* of San Fernando and the local missions from "relentless" Apache harassment.
+
+
+```
+### Sources
+
+* **Primary Source:** *Bexar Archives*, July 18–24, 1733 (Rebolledo’s Opinion and Casafuerte’s Order).
+* **Secondary Source:** Chabot, Frederick C. *With The Makers of Texas: Genealogies of the Early San Antonio Families*.
+* **Reference:** *Texas Handbook Online*, Texas State Historical Association.
+```
+
