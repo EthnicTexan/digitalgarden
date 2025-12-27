@@ -217,3 +217,32 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 > - **Supporting Context:** Documentation regarding the St. Denis expedition to Mexico (1714).
 ```
 
+## 1715 - Authority and the "Gran Quivira" Proposal
+
+- **Recognition as an Expert:** Following his return from his "seven years" in the wilderness, Urrutia was recognized in Mexico as the leading authority on the indigenous peoples of Texas.
+    
+- **Administrative Appointment:** He was officially appointed as the **"Protector of the Indians"** in Nuevo León.
+    
+- **The Aguayo Connection:** Urrutia earned the trust of the powerful **[[0004 - Persons/A/Marquis of San Miguel de Aguayo\|Marquis of San Miguel de Aguayo]]**, who described him as a "man of much honor" from Guipúzcoa.
+    
+- **The Gran Quivira Expedition:** Aguayo recommended that Urrutia lead an expedition to discover the legendary **"Gran Quivira"**.
+	- **Urrutia’s Confidence:** He asserted that he could successfully reach Quivira with only 10 or 12 men, relying entirely on the goodwill and protection of the many nations that remained his friends.
+	- **Desire to Return:** Writing from the [[0009 - Places/M/Mines of Mazapil\|Mines of Mazapil]], Aguayo noted that even after an absence of nearly twenty years, Urrutia still "anxiously desires" to return to his indigenous allies.
+- **Legacy of the Apache Conflict:** The early decision by Spaniards like Urrutia to aid the "Texas" (Hasinai) tribes permanently marked the Spanish as enemies of the **Apaches**. This "Apache terror" would go on to overshadow the entire history of Spanish Texas and the founding of San Antonio.
+
+**Historical Note:** The mention of Urrutia serving at the **Mines of Mazapil** without cost to the Royal Treasury demonstrates his high social standing and personal wealth during this period.
+
+## 1716 - September 15 - BIRTH -[[0004 - Persons/U/Ignacio-Cayetano de Urrutia\|Ignacio-Cayetano de Urrutia]]
+### Santiago Apostol, Monclova, Coahuila, Mexico
+
+- **Marriage:** Married **[[0004 - Persons/S/Rosa Sanchez-Navarro-y-Gomez\|Rosa Sanchez-Navarro-y-Gomez]]** in Saltillo, Coahuila.
+
+## Abt. 1718 - BIRTH - [[0004 - Persons/U/Joseph-Miguel de Urrutia\|Joseph-Miguel de Urrutia]]
+### Monclova, Coahuila, Mexico
+
+- **Marriage:** Married **[[0004 - Persons/C/Clara Cantu\|Clara Cantu]]**.
+- **Service:** Recognized for many years of service to the Spanish Crown.
+- **Royal Grant:** Received a Royal Grant in 1744.
+- **Death:** After 1744, San Antonio, Texas.
+
+
