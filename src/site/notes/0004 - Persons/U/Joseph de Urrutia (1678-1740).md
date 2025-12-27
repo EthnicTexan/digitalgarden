@@ -13,14 +13,13 @@
 Joseph was born in Spain in the year 1678
 ### Address/ Location - Guipúzcoa, Spain
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d838350.5036231291!2d-2.7037803554525333!3d43.14111080835154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5035381ce4c9cd%3A0x304f58273c9ca70!2sGipuzkoa%2C%20Spain!5e0!3m2!1sen!2sus!4v1766733478250!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## 1690 - Expedition
 ---
 Joseph came to America before 1691 and was a member of the [Domingo Terán de los Ríos](https://www.tshaonline.org/handbook/entries/teran-de-los-rios-domingo) expedition
 ### Address/ Location - 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5969477.096552252!2d-100.1746429297454!3d29.600927664842484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x863eaefcb145ee5d%3A0x9cd3f4ad8bff8107!2sNeches%20River!5e0!3m2!1sen!2sus!4v1766733812197!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 ## 1692  - Expedition
@@ -48,7 +47,6 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 ## 1693 - Expedition
 
 ### Colorado River, Texas 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1287707.4772895938!2d-98.60949880305425!3d29.991870445452108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86562af3e2e418c9%3A0x5131366d5345821d!2sColorado%20River!5e0!3m2!1sen!2sus!4v1766779515804!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ---
@@ -119,7 +117,9 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 | **Joseph de Urrutia** (Male) married **Antonia (Antta.) Ramón** at Santiago Apóstol, Monclova, Coahuila, Mexico. |
 
 ### Location - Santiago Apostol, Monclova, Coahuila
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
 
 ---
 
@@ -136,7 +136,7 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 
 ## 1700 - Return from Expedition
 ### Location - San Juan Bautista Mission 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1305174.3629411538!2d-100.4283071086307!3d28.616570292981148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865fe2f81422fdb9%3A0xa65fe5c004abe61!2sRuins%20Mission%20San%20Juan%20Bautista!5e0!3m2!1sen!2sus!4v1766770163739!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 The timeline of Joseph de Urrutia's "seven years" among the Indians is up for debate. 
@@ -159,12 +159,10 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## 1703 - MARRIAGE - To [[0004 - Persons/F/Rosa Flores-Y-Valdez\|Rosa Flores-Y-Valdez]]
 ### Location - Saltillo, Coahuila, Mexico
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555606.82121909!2d-101.4484255525204!3d27.795395213232464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770348996!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Abt. 1704 - BIRTH -[[ Rosa-Micaela de Urrutia\| Rosa-Micaela de Urrutia]]
 
 ### Santiago Apostol, Monclova, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 - **Marriage:** She married **[[0004 - Persons/G/Pedro-Jose Godoy\|Pedro-Jose Godoy]]** in Boca de Leones, Nuevo Leon, Mexico.
@@ -177,7 +175,6 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## 1706 - December 05 - BIRTH - [[0004 - Persons/U/Cathalina de Urrutia\|Cathalina de Urrutia]]
 
 ### Santiago Apostol, Monclova, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 - **Marriage:** Married **Don [[0004 - Persons/P/Joseph de Plaza\|Joseph de Plaza]]** (born abt. 1704).
@@ -190,8 +187,6 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## Abt. 1707 - BIRTH - Captain [[0004 - Persons/U/Toribio de Urrutia\|Toribio de Urrutia]]
 
 ### San Juan Bautista del Rio Grande, Presidio del Norte, Coahuila, Mexico
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1305174.3629411538!2d-100.4283071086307!3d28.616570292981148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865fe2f81422fdb9%3A0xa65fe5c004abe61!2sRuins%20Mission%20San%20Juan%20Bautista!5e0!3m2!1sen!2sus!4v1766770163739!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 - **Marriages:** First to **[[0004 - Persons/F/Maria-Josefa Flores-de-Valdez\|Maria-Josefa Flores-de-Valdez]]** (1735); Second to **[[0004 - Persons/F/Ana-Josefa-Maria Farias-Flores-de-Abrego\|Ana-Josefa-Maria Farias-Flores-de-Abrego]]**.
@@ -210,7 +205,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## 1709 - July 25 - BIRTH - [[0004 - Persons/U/Juana-de-Dios de Urrutia\|Juana-de-Dios de Urrutia]]
 
 ### Santiago Apostol, Monclova, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 - **Marriages:** First to **[[0004 - Persons/G/Ignacio Gonzalez-de-Inclan\|Ignacio Gonzalez-de-Inclan]]** (abt. 1735); Second to **[[0004 - Persons/O/Pedro-Mariano de Ocon-y-Trillo\|Pedro-Mariano de Ocon-y-Trillo]]** (1746).
@@ -227,7 +222,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## Abt. 1710 - BIRTH - [[0004 - Persons/U/Joaquin de Urrutia\|Joaquin de Urrutia]]
 
 ### Saltillo, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555606.82121909!2d-101.4484255525204!3d27.795395213232464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770348996!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 - **Marriage:** Married **[[0004 - Persons/H/Maria-Josefa Hernandez-Longoria\|Maria-Josefa Hernandez-Longoria]]** (abt. 1732).
@@ -241,7 +236,6 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## Abt. 1711 - BIRTH - [[0004 - Persons/U/Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)\|Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)]]
 
 ### Saltillo, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555606.82121909!2d-101.4484255525204!3d27.795395213232464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770348996!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 - **Marriage:** Married **[[0004 - Persons/F/Gertrudis Flores-y-Valdez\|Gertrudis Flores-y-Valdez]]** (abt. 1739) in Saltillo.
@@ -266,7 +260,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## 1712/13 - January 15 - BIRTH - [[0004 - Persons/U/Manuel de Urrutia\|Manuel de Urrutia]]
 
 ### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555606.82121909!2d-101.4484255525204!3d27.795395213232464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770348996!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 - **Note:** The records indicate that he died young.
 
@@ -315,8 +309,6 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## 1716 - September 15 - BIRTH -[[0004 - Persons/U/Ignacio-Cayetano de Urrutia\|Ignacio-Cayetano de Urrutia]]
 
 ### Santiago Apostol, Monclova, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
 - **Marriage:** Married **[[0004 - Persons/S/Rosa Sanchez-Navarro-y-Gomez\|Rosa Sanchez-Navarro-y-Gomez]]** in Saltillo, Coahuila.
 
@@ -325,8 +317,6 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## Abt. 1718 - BIRTH - [[0004 - Persons/U/Joseph-Miguel de Urrutia\|Joseph-Miguel de Urrutia]]
 
 ### Monclova, Coahuila, Mexico
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
 - **Marriage:** Married **[[0004 - Persons/C/Clara Cantu\|Clara Cantu]]**.
 - **Service:** Recognized for many years of service to the Spanish Crown.
@@ -365,7 +355,7 @@ This entry documents a brief period of regional stability during the years prece
 ## 1732 - The Appointment to Captaincy (1732–1733)
 
 ### San Antonio, Texas
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11689.223276427148!2d-98.49685645140516!3d29.422160712067765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2aea7e4ab%3A0x78549709ed24ba37!2sPlaza%20de%20Armas%2C%20San%20Antonio%2C%20TX%2078205!5e0!3m2!1sen!2sus!4v1766779242003!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 - **The Governor’s Campaign:** In 1732, the Governor launched a formal military campaign against the Apaches.
     
@@ -391,7 +381,7 @@ This entry documents a brief period of regional stability during the years prece
 ## 1733 - Captaincy of San Antonio (1733)
 
 ### San Antonio, Texas 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11689.223276427148!2d-98.49685645140516!3d29.422160712067765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2aea7e4ab%3A0x78549709ed24ba37!2sPlaza%20de%20Armas%2C%20San%20Antonio%2C%20TX%2078205!5e0!3m2!1sen!2sus!4v1766779242003!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 This period marks the pinnacle of Joseph de Urrutia’s career, as he was formally recognized as the crown's most vital asset for the survival of San Antonio.
 
@@ -583,8 +573,6 @@ An administrative record from August 1737 highlights Joseph de Urrutia’s relia
 ## 1739 - The San Saba Campaign (1738–1739)
 
 ### San Saba Region 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2366443.8125189487!2d-99.82736289322536!3d29.79040119304701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8659c9beadc9ce67%3A0xbc69cd73d2d7152!2sMenard%2C%20TX%2076859!5e0!3m2!1sen!2sus!4v1766779417766!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 
 In the final years of his career, Joseph de Urrutia took decisive, independent action to address the deteriorating security of San Antonio, culminating in a major military expedition into the Texas interior.
 
@@ -621,7 +609,6 @@ The final years of Captain Joseph de Urrutia’s life and the subsequent settlem
 
 ---
 ### San Antonio, Texas
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19099.287183100652!2d-98.50021137040663!3d29.421711219379013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2b28db0cb%3A0x5e6a80f904b7b045!2sSpanish%20Governor&#39;s%20Palace!5e0!3m2!1sen!2sus!4v1766779140158!5m2!1sen!2sus" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### 1740: Death and Succession
 
@@ -668,7 +655,6 @@ The final years of Captain Joseph de Urrutia’s life and the subsequent settlem
 
 Wikipedia: [Joseph de Urrutia](https://en.wikipedia.org/wiki/Jos%C3%A9_de_Urrutia_(explorer))
 Texas Handbook Online: [Joseph de Urrutia](https://www.tshaonline.org/handbook/entries/urrutia-jose-de)
-
 
 
 #### Sources For Children Unless Otherwise Noted
