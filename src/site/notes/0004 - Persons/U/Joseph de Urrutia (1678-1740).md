@@ -56,10 +56,7 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 > **Primary Source:** Chabot, Frederick C. _With The Makers of Texas: Genealogies of the Early San Antonio Families._ **Supporting Documentation:** Official statement by Joseph Urrutia to the Viceroy of New Spain, dated May 9, 1738.
 ```
 
-
-
 This period marks the most legendary chapter of Joseph de Urrutia’s life—his transition from a Spanish soldier to a powerful leader among the Indigenous nations of the Texas coastal plains.
-
 
 ## 1694 - Expedition
 ---
@@ -95,15 +92,10 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 > - **Literary Reference:** [[Chabot, Frederick C.]], _With The Makers of Texas_.
 ```
 
-
 ## 1697 - JAN - 06 - MARRIAGE - To [[0004 - Persons/R/Antonia Ramon\|Antonia Ramon]]
----
 
 **Joseph de Urrutia** (Male) married **Antonia (Antta.) Ramón** at Santiago Apóstol, Monclova, Coahuila, Mexico.
 ### Location - Santiago Apostol, Monclova, Coahuila
-
-
----
 
 ```
 ### **Sources**
@@ -115,4 +107,3 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 
 
 ## 1698 - BIRTH - Child: [[0004 - Persons/U/Antonia de Urrutia-Ramon\|Antonia de Urrutia-Ramon]]
----
