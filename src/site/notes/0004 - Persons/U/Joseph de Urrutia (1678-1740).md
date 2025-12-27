@@ -5,8 +5,6 @@
 
 # Joseph de Urrutia (1678-1740)
 ---
-![Spanish Govenors Palace](https://upload.wikimedia.org/wikipedia/commons/0/0e/Spanish_Governor%27s_Palace%2C_San_Antonio%2C_Texas_%2850227405701%29.jpg)
-
 
 ## 1678  - BIRTH 
 ---
