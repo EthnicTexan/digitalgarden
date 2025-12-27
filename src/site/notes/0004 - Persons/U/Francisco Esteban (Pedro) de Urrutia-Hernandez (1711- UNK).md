@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/0004-persons/u/francisco-esteban-pedro-de-urrutia-hernandez-1711-unk/"}
 ---
 
-#underconstruction 
 # Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)
 ---
 
@@ -140,7 +139,7 @@ Following the death of his father in 1740, Francisco Pedro solidified his family
 </div>
 
 
-## 1751 - NOV - 22 - BIRTH - [[0004 - Persons/U/Esmergilda de Urrutia-Valdes\|Esmergilda de Urrutia-Valdes]]
+## 1751 - NOV - 22 - BIRTH - [[Esmergilda de Urrutia-Valdes\|Esmergilda de Urrutia-Valdes]]
 ### Location: San Antonio, Texas
 
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
