@@ -8,8 +8,9 @@
 
 
 ## 1678  - BIRTH 
+---
 Joseph was born in Spain in the year 1678
-### Address/ Location - Guipúzcoa, Spain
+### Location - Guipúzcoa, Spain
 <div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
     <iframe 
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3146061.2573427586!2d-4.354952093720903!3d42.84698275489759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5035381ce4c9cd%3A0x304f58273c9ca70!2sGipuzkoa%2C%20Spain!5e0!3m2!1sen!2sus!4v1766803130252!5m2!1sen!2sus"
@@ -22,10 +23,35 @@ Joseph was born in Spain in the year 1678
 
 
 ## 1690 - Expedition
-Joseph came to America before 1691 and was a member of the [Domingo Terán de los Ríos](https://www.tshaonline.org/handbook/entries/teran-de-los-rios-domingo) expedition
+---
+### Location: East Texas, Mission Texas State Park
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1713457.8352968576!2d-95.94356912639371!3d30.912893235429465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8648086e005e49bb%3A0x798ce0841fed648c!2sMission%20Tejas%20State%20Park!5e0!3m2!1sen!2sus!4v1766805730281!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+#### **1690–1691: Arrival at the First East Texas Mission**
 
+- **May 1690:** The **San Francisco de los Tejas Mission** is established on San Pedro Creek (near present-day Augusta) as the first Spanish mission in East Texas.
 
+- **1691:** Urrutia arrived in the region as a soldier with the [**Domingo Terán de los Ríos expedition**](https://www.tshaonline.org/handbook/entries/teran-de-los-rios-domingo). He was part of a force of fifty soldiers escorting priests and livestock to reinforce the mission.
 ## 1692  - Expedition
+---
+### Location - Neches River, Texas
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6181816.6350410255!2d-97.42911585686899!3d32.252540069754396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x863eaefcb145ee5d%3A0x9cd3f4ad8bff8107!2sNeches%20River!5e0!3m2!1sen!2sus!4v1766804982956!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
 - **August 1692: First Apache Campaign** While stationed at the Neches River garrison as a young soldier, Urrutia participates in a joint military expedition with the **"Texas" (Hasinai)** Indians. The group marches westward into Apache territory.
     
 - **The Night Ambush:** During the expedition, the company is surprised by a night attack while sleeping. According to [[0004 - Persons/H/Father Francisco Hidalgo\|Father Francisco Hidalgo]], the group is saved from total destruction only by the **firearms** of the Spanish soldiers, including Urrutia. This marks one of Urrutia's earliest recorded encounters with the Apache nation.
@@ -33,6 +59,9 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 - **c. late 1692: Major Military Victory:** Urrutia continues to serve in Spanish-Indian coalition forces. In a subsequent campaign during this period, the alliance achieves a decisive victory, reportedly **killing 136 Apaches**.
 
 - **Significance:** These early successes establish Urrutia’s reputation as a capable warrior among the local tribes, laying the groundwork for his later appointment as their "Captain General" during his seven-year stay (1693–1700).
+
+- **At Mission Tejas 1692:** Hostility grew as the local tribes responded to the friars with "growing impudence," prioritizing the theft of horses over religious instruction.
+        
 
 
 ```
@@ -45,8 +74,23 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 
 
 ## 1693 - Expedition
+---
 ### Colorado River, Texas 
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5019498.3238876015!2d-102.35588021653189!3d31.086619326001962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86562af3e2e418c9%3A0x5131366d5345821d!2sColorado%20River!5e0!3m2!1sen!2sus!4v1766805130778!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
 - **Arrival and Abandonment:** Urrutia was a young soldier stationed at a Spanish garrison near the **Neches River** during the Terán expedition.
+
+- **June 1693:** A relief expedition led by **Gregorio de Salinas Varona** found the Mission Tejas in a state of crisis, with rampant illness among the Indians and a severe shortage of supplies.
+    
+- **October 1693:** Conditions at Mission Tejas became unsustainable. The friars buried the mission's cannon and bells, packed their vestments, and **set fire to the mission buildings** before beginning a retreat to Coahuila.
     
 - **The 1693 Departure:** When Spanish forces withdrew from the area in 1693, Urrutia did not return with them. He remained in East Texas as one of only four soldiers left behind.
 
@@ -65,24 +109,42 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 This period marks the most legendary chapter of Joseph de Urrutia’s life—his transition from a Spanish soldier to a powerful leader among the Indigenous nations of the Texas coastal plains.
 
 ## 1694 - Expedition
-- 1694: Conflicting Accounts of the "Desertion"
-	- Evidence from the writings of [[0004 - Persons/M/Father Damián Massanet\|Father Damián Massanet]] suggests that after the Spanish withdrawal in 1693, Urrutia and other soldiers may have returned to the abandoned missions. A "faithful Indian" reported to the Padres that the deserters had gone back to help local tribes recover buried mission supplies and tools.
-    
-- 1694–1700: Life Among the Cantona Tribes
+---
 
-	- While it was previously believed Urrutia lived with the "Texas" (Hasinai) tribes, historian Herbert E. Bolton clarifies that he actually lived among the Cantona Indians near the lower Colorado (San Marcos) River.
-    
-    - **The Tribes:** He integrated specifically with the **Cantujuanas, Toos, and Yemes** (also recorded as Kanohatinos, Tohos, and Xarames).
-        
-    - **Cultural Mastery:** During these seven years, he became intimately acquainted with their customs and mastered their various languages, knowledge that would later make him the Spanish government’s most valuable asset in the region.
-        
-- c. 1695–1700: Rise to "Captain General"
+### Location: East Texas, Mission Texas State Park
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1713457.8352968576!2d-95.94356912639371!3d30.912893235429465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8648086e005e49bb%3A0x798ce0841fed648c!2sMission%20Tejas%20State%20Park!5e0!3m2!1sen!2sus!4v1766805730281!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
-	- Urrutia’s Spanish military training led to his appointment as the "Captain General" of a massive alliance of tribes located east of the middle Colorado River.
+#### 1694: The Choice to Stay Behind
+
+- **February 1694:** The official retreat party reached Monclova, but **Joseph de Urrutia** was not among them. He was one of **four soldiers** who chose to stay in the wilderness rather than return to Spanish civilization.
     
-    - **Commanding the Coalition:** He claimed to have led joint campaigns involving as many as **10,000 to 12,000 warriors**.
+- **Conflicting Reports of Conduct:**  **The Desertion Account:** Official mission records state that Urrutia and his companions "deserted" the retreating party to live among the Indians. However, other accounts say he was left behind due to an injury. 
+    
+    - **The "Faithful Indian" Report:** In a 1694 report to the Viceroy, **Father Damián Massanet** (Manzanet) noted that an Indian informant saw the soldiers return to the abandoned mission site to help local tribes dig up the buried Spanish supplies and tools.
+	- [San Francisco de Los Tejas Mission - TSHA Online](https://www.tshaonline.org/handbook/entries/san-francisco-de-los-tejas-mission)
+    
+#### 1694–1700: Leadership Among the Cantona Tribes
+
+- **Geographic Shift:** Although he was stationed at the "Texas" (Hasinai) mission, historian **Herbert E. Bolton** clarifies that Urrutia spent his seven-year stay further west among the **Cantona Indians** near the **lower Colorado (San Marcos) River**.
+    
+- **Tribal Integration:** He lived intimately with the **Cantujuanas, Toos, and Yemes** (Kanohatinos, Tohos, and Xarames). 
+
+*  **Cultural Mastery:** During these seven years, he became intimately acquainted with their customs and mastered their various languages, knowledge that would later make him the Spanish government’s most valuable asset in the region.
+
+- **"Captain General" Status:** Recognizing his Spanish military expertise, a massive alliance of tribes east of the Colorado River appointed him their **"Captain General"**.
+    
+    - **Military Command:** He claimed to lead joint campaigns against the **Apaches** with forces numbering between **10,000 and 12,000 warriors**.
         
-    - **The Apache Conflict:** He served as the primary strategist for these allied nations in their "inveterate" (long-standing) war against the **Apaches**, their common enemy.
+    - **Strategic Role:** He served as the primary strategist for these allied nations in their long-standing war against the Apache.
+
 
 
 ```
@@ -92,15 +154,26 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 >     
 > - **Historical Analysis:** [[Castañeda, Carlos E.]], _Our Catholic Heritage in Texas_, Vol. I.
 >     
-> - **Academic Source:** [[Bolton, Herbert E.]], _The Hasinais: Southern Caddoans as Seen by the Earliest Europeans_.
+> -  Bolton, Herbert E. _The Hasinais: Southern Caddoans as Seen by the Earliest Europeans_ (citing Manzanet/Massanet and Castañeda).
 >     
 > - **Literary Reference:** [[Chabot, Frederick C.]], _With The Makers of Texas_.
+>   
+>   -  _San Francisco de los Tejas Mission_, Handbook of Texas Online (TSHA).
 ```
 
 ## 1697 - JAN - 06 - MARRIAGE - To [[0004 - Persons/R/Antonia Ramon\|Antonia Ramon]]
 
 **Joseph de Urrutia** (Male) married **Antonia (Antta.) Ramón** at Santiago Apóstol, Monclova, Coahuila, Mexico.
 ### Location - Santiago Apostol, Monclova, Coahuila
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 ```
 ### **Sources**
@@ -136,9 +209,27 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 ## 1703 - MARRIAGE - To [[0004 - Persons/F/Rosa Flores-Y-Valdez\|Rosa Flores-Y-Valdez]]
 ### Location - Saltillo, Coahuila, Mexico
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2175455.0951448646!2d-99.57075595394396!3d27.072850883119038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766808341246!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 ## Abt. 1704 - BIRTH -[[ Rosa-Micaela de Urrutia\| Rosa-Micaela de Urrutia]]
 ### Santiago Apostol, Monclova, Coahuila, Mexico
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 - **Marriage:** She married **[[0004 - Persons/G/Pedro-Jose Godoy\|Pedro-Jose Godoy]]** in Boca de Leones, Nuevo Leon, Mexico.
     
@@ -146,6 +237,15 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     
 ## 1706 - December 05 - BIRTH - [[0004 - Persons/U/Cathalina de Urrutia\|Cathalina de Urrutia]]
 ### Santiago Apostol, Monclova, Coahuila, Mexico
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 - **Marriage:** Married **Don [[0004 - Persons/P/Joseph de Plaza\|Joseph de Plaza]]** (born abt. 1704).
     
@@ -167,6 +267,15 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 ## 1709 - July 25 - BIRTH - [[0004 - Persons/U/Juana-de-Dios de Urrutia\|Juana-de-Dios de Urrutia]]
 ### Santiago Apostol, Monclova, Coahuila, Mexico
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 - **Marriages:** First to **[[0004 - Persons/G/Ignacio Gonzalez-de-Inclan\|Ignacio Gonzalez-de-Inclan]]** (abt. 1735); Second to **[[0004 - Persons/O/Pedro-Mariano de Ocon-y-Trillo\|Pedro-Mariano de Ocon-y-Trillo]]** (1746).
     
@@ -180,6 +289,16 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## Abt. 1710 - BIRTH - [[0004 - Persons/U/Joaquin de Urrutia\|Joaquin de Urrutia]]
 ### Saltillo, Coahuila, Mexico
 
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2175455.0951448646!2d-99.57075595394396!3d27.072850883119038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766808341246!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
 - **Marriage:** Married **[[0004 - Persons/H/Maria-Josefa Hernandez-Longoria\|Maria-Josefa Hernandez-Longoria]]** (abt. 1732).
 - **Philanthropy:** In 1738, he gave $100 pesos towards the construction of San Fernando Church in San Antonio, Texas
 - **Land Grant:** Received a grant in 1742. His land was bounded by the San Pedro Creek and the property of his father-in-law, [[0004 - Persons/H/Francisco Hernandez\|Francisco Hernandez]].
@@ -188,6 +307,16 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 ## Abt. 1711 - BIRTH - [[0004 - Persons/U/Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)\|Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)]]
 ### Saltillo, Coahuila, Mexico
+
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2175455.0951448646!2d-99.57075595394396!3d27.072850883119038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766808341246!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 - **Marriage:** Married **[[0004 - Persons/F/Gertrudis Flores-y-Valdez\|Gertrudis Flores-y-Valdez]]** (abt. 1739) in Saltillo.
 - **Contribution:** In 1738, he gave $5 pesos towards the construction of San Fernando Church in San Antonio, Texas
@@ -209,6 +338,15 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## 1712/13 - January 15 - BIRTH - [[0004 - Persons/U/Manuel de Urrutia\|Manuel de Urrutia]]
 
 ### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2175455.0951448646!2d-99.57075595394396!3d27.072850883119038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766808341246!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 **Note:** The records indicate that he died young.
 
@@ -246,10 +384,31 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## 1716 - September 15 - BIRTH -[[0004 - Persons/U/Ignacio-Cayetano de Urrutia\|Ignacio-Cayetano de Urrutia]]
 ### Santiago Apostol, Monclova, Coahuila, Mexico
 
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
+
 - **Marriage:** Married **[[0004 - Persons/S/Rosa Sanchez-Navarro-y-Gomez\|Rosa Sanchez-Navarro-y-Gomez]]** in Saltillo, Coahuila.
 
 ## Abt. 1718 - BIRTH - [[0004 - Persons/U/Joseph-Miguel de Urrutia\|Joseph-Miguel de Urrutia]]
 ### Monclova, Coahuila, Mexico
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1314682.1155693254!2d-101.27788720667269!3d27.841939392517478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868bcdd2d6e0843f%3A0xecc99790f92f898f!2sSantiago%20Ap%C3%B3stol%2C%20Leandro%20Valle%2C%20Monclova%2C%20Coah.%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766770023464!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
 
 - **Marriage:** Married **[[0004 - Persons/C/Clara Cantu\|Clara Cantu]]**.
 - **Service:** Recognized for many years of service to the Spanish Crown.
@@ -259,6 +418,16 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 ## 1719 - June 06 - BIRTH [[0004 - Persons/U/Anna-Maria-Gertrudis-Josephina de Urrutia\|Anna-Maria-Gertrudis-Josephina de Urrutia]]
 ### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2175455.0951448646!2d-99.57075595394396!3d27.072850883119038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86880d9078df19ef%3A0xa9519241794730c0!2sSaltillo%2C%20Coahuila%2C%20Mexico!5e0!3m2!1sen!2sus!4v1766808341246!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
 - **Marriage:** Married **[[0004 - Persons/T/Antonio-Nicolas de Trevino-Gutierrez\|Antonio-Nicolas de Trevino-Gutierrez]]** in 1740.
 
 ## 1726 - The Calm Before the Conflict (1726–1730)
@@ -277,6 +446,18 @@ This entry documents a brief period of regional stability during the years prece
 
 ## 1732 - The Appointment to Captaincy (1732–1733)
 ### Location: San Antonio, Texas
+
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3475.1441320144745!2d-98.49804638789568!3d29.42458357513831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2aea7e4ab%3A0x78549709ed24ba37!2sPlaza%20de%20Armas%2C%20San%20Antonio%2C%20TX%2078205!5e0!3m2!1sen!2sus!4v1766808782759!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
+
 - **The Governor’s Campaign:** In 1732, the Governor launched a formal military campaign against the Apaches.
 - **The Failed Peace:** This campaign resulted in a superficial "peace". Under the guise of this treaty, Apache groups entered San Antonio—which was geographically exposed and near their territories—to commit outrages and instill panic among the residents.
 - **Loss of Trust:** These events proved to the inhabitants of San Antonio that Apache diplomatic promises could not be trusted.
@@ -295,6 +476,21 @@ This entry documents a brief period of regional stability during the years prece
 * record not located 
 
 ## 1733 - Captaincy of San Antonio
+
+### Location: San Antonio, Texas
+
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3475.1441320144745!2d-98.49804638789568!3d29.42458357513831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2aea7e4ab%3A0x78549709ed24ba37!2sPlaza%20de%20Armas%2C%20San%20Antonio%2C%20TX%2078205!5e0!3m2!1sen!2sus!4v1766808782759!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
+
+
+
 This period marks the pinnacle of Joseph de Urrutia’s career, as he was formally recognized as the crown's most vital asset for the survival of San Antonio.
 
 **July 4, 1733: Observations on Tribal Alliances**
@@ -461,7 +657,18 @@ An administrative record from August 1737 highlights Joseph de Urrutia’s relia
 ```
 ## 1739 - The San Saba Campaign (1738–1739)
 ---
-### San Saba Region 
+### San Saba Region - 
+- This map is an estimation based on where a later fort was established 
+
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2859265.9871039176!2d-98.3273530995158!3d29.87554014724612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8659c9beadc9ce67%3A0xbc69cd73d2d7152!2sMenard%2C%20TX%2076859!5e0!3m2!1sen!2sus!4v1766808949944!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 In the final years of his career, Joseph de Urrutia took decisive, independent action to address the deteriorating security of San Antonio, culminating in a major military expedition into the Texas interior.
 
@@ -492,7 +699,17 @@ In the final years of his career, Joseph de Urrutia took decisive, independent a
 ## 1740 - Final Years & Estate (1740–1741)
 ---
 The final years of Captain Joseph de Urrutia’s life and the subsequent settlement of his estate provide an intimate look at the family legacy and the material culture of a high-ranking Spanish officer on the Texas frontier.
-### San Antonio, Texas
+### Comandancia (Spanish Governors Palace) - San Antonio, Texas
+
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17004.131627442002!2d-98.49329219881417!3d29.42586548916907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c58b2b28db0cb%3A0x5e6a80f904b7b045!2sSpanish%20Governor&#39;s%20Palace!5e0!3m2!1sen!2sus!4v1766808564879!5m2!1sen!2sus" 
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 ### 1740: Death and Succession
 
 * **Succession of Command:** Joseph de Urrutia was succeeded as Captain of the Presidio de Béxar by his son, **[[0004 - Persons/U/Toribio de Urrutia\|Toribio de Urrutia]]**, who continued the family’s military leadership in San Antonio.
