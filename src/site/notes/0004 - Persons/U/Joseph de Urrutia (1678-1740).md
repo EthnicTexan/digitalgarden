@@ -196,21 +196,20 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 
 ## 1712/13 - January 15 - BIRTH - [[0004 - Persons/U/Manuel de Urrutia\|Manuel de Urrutia]]
-### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
-- **Note:** The records indicate that he died young.
 
+### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
+
+**Note:** The records indicate that he died young.
 
 ## 1714 -  Petition for Urrutia’s Return
-- **Lasting Indigenous Influence:** Even years after his departure, Urrutia and [[0004 - Persons/H/Father Francisco Hidalgo\|Father Francisco Hidalgo]] remained deeply respected by the **Asinais (Hasinai)** people.
 
+- **Lasting Indigenous Influence:** Even years after his departure, Urrutia and [[0004 - Persons/H/Father Francisco Hidalgo\|Father Francisco Hidalgo]] remained deeply respected by the **Asinais (Hasinai)** people.
 - **The St. Denis Encounter:** When the French explorer **[[0004 - Persons/S/Louis Juchereau de St. Denis\|Louis Juchereau de St. Denis]]** arrived among the Asinais in 1714, the tribe used his expedition as a diplomatic channel to reach Spanish authorities.
 - **A Specific Request for Leadership:** The Asinais requested that St. Denis petition the Mexican government to send two specific men back to them:
-    
     - **Father Francisco Hidalgo:** To serve as their minister and missionary.
-    
     - **"Captain Urrutia":** Specifically requested because of the years he spent living among them, his mastery of their **language**, and his intimate knowledge of their **customs**.
-        
 - **Coinciding Service:** This record confirms that Urrutia’s legendary stay in the Texas wilderness was contemporary with Father Hidalgo’s early missionary efforts in the same region.
+
 
 ```
 > - **Primary Reference:** Chabot, Frederick C. _With The Makers of Texas: Genealogies of the Early San Antonio Families_.
@@ -227,14 +226,11 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 - **The Aguayo Connection:** Urrutia earned the trust of the powerful **[[0004 - Persons/A/Marquis of San Miguel de Aguayo\|Marquis of San Miguel de Aguayo]]**, who described him as a "man of much honor" from Guipúzcoa.
     
 - **The Gran Quivira Expedition:** Aguayo recommended that Urrutia lead an expedition to discover the legendary **"Gran Quivira"**.
-    
-    - **Urrutia’s Confidence:** He asserted that he could successfully reach Quivira with only 10 or 12 men, relying entirely on the goodwill and protection of the many nations that remained his friends.
-        
-    - **Desire to Return:** Writing from the [[0009 - Places/M/Mines of Mazapil\|Mines of Mazapil]], Aguayo noted that even after an absence of nearly twenty years, Urrutia still "anxiously desires" to return to his indigenous allies.
-        
+	- **Urrutia’s Confidence:** He asserted that he could successfully reach Quivira with only 10 or 12 men, relying entirely on the goodwill and protection of the many nations that remained his friends.
+	- **Desire to Return:** Writing from the [[0009 - Places/M/Mines of Mazapil\|Mines of Mazapil]], Aguayo noted that even after an absence of nearly twenty years, Urrutia still "anxiously desires" to return to his indigenous allies.
 - **Legacy of the Apache Conflict:** The early decision by Spaniards like Urrutia to aid the "Texas" (Hasinai) tribes permanently marked the Spanish as enemies of the **Apaches**. This "Apache terror" would go on to overshadow the entire history of Spanish Texas and the founding of San Antonio.
 
-> **Historical Note:** The mention of Urrutia serving at the **Mines of Mazapil** without cost to the Royal Treasury demonstrates his high social standing and personal wealth during this period.
+**Historical Note:** The mention of Urrutia serving at the **Mines of Mazapil** without cost to the Royal Treasury demonstrates his high social standing and personal wealth during this period.
 
 ## 1716 - September 15 - BIRTH -[[0004 - Persons/U/Ignacio-Cayetano de Urrutia\|Ignacio-Cayetano de Urrutia]]
 ### Santiago Apostol, Monclova, Coahuila, Mexico
@@ -252,18 +248,15 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 ## 1719 - June 06 - BIRTH [[0004 - Persons/U/Anna-Maria-Gertrudis-Josephina de Urrutia\|Anna-Maria-Gertrudis-Josephina de Urrutia]]
 ### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
 - **Marriage:** Married **[[0004 - Persons/T/Antonio-Nicolas de Trevino-Gutierrez\|Antonio-Nicolas de Trevino-Gutierrez]]** in 1740.
-    
+
 ## 1726 - The Calm Before the Conflict (1726–1730)
 
 This entry documents a brief period of regional stability during the years preceding Joseph de Urrutia's appointment as Captain in San Antonio.
 
 
 - **A Period of Relative Quiet:** Between 1726 and 1730, historical documents indicate a significant lull in hostilities committed by the Apaches.
-    
 - **Historical Context:** This temporary peace occurred while Urrutia was still serving in northern Mexico, prior to his 1733 arrival in San Antonio.
-    
 - **Presidio Life:** During these years, the lack of recorded conflict suggests that the missions and the Presidio de San Antonio de Béjar experienced a rare window of security before the "Apache terror" intensified again in the 1730s.
-    
 
 ```
 ### Source
@@ -272,19 +265,13 @@ This entry documents a brief period of regional stability during the years prece
 
 ## 1732 - The Appointment to Captaincy (1732–1733)
 ### Location: San Antonio, Texas
-
 - **The Governor’s Campaign:** In 1732, the Governor launched a formal military campaign against the Apaches.
-    
 - **The Failed Peace:** This campaign resulted in a superficial "peace". Under the guise of this treaty, Apache groups entered San Antonio—which was geographically exposed and near their territories—to commit outrages and instill panic among the residents.
-    
 - **Loss of Trust:** These events proved to the inhabitants of San Antonio that Apache diplomatic promises could not be trusted.
-    
 - **Call for Relief:** Following urgent petitions from the Governor for better security, the central government initiated measures to protect the settlement.
-    
 - **Urrutia Named Captain:** As a primary security measure, **Don Joseph de Urrutia** was appointed **Captain of the Presidio of Béjar**.
-    
 - **Reason for Selection:** He was specifically chosen for this prestigious command because of his "long experience" and unique history living among the various Indian nations.
-    
+
 ```
 ### Source
 
@@ -306,14 +293,6 @@ Following a failed peace treaty and the murder of Spanish soldiers, **Don [[Juan
 By official decree, Joseph de Urrutia was ordered to take immediate possession of the **Presidio of San Antonio de Béjar**.
 * **Mission:** His primary charge was to leverage his old alliances with indigenous tribes to form a united front against the Apaches.
 * **Military Reinforcements:** Under his command, the garrison was increased by 25 men—drawn from the presidios of La Bahía and Los Adaes—to protect the *Villa* of San Fernando and the local missions from "relentless" Apache harassment.
-
-#### Genealogical Summary of Status
-
-| Detail | Description |
-| --- | --- |
-| **Total Service** | Over 40 years of approved service to the Royal Treasury by 1733. |
-| **Military Rank** | Captain and Commander of the Presidio of San Antonio de Béjar. |
-| **Expertise** | Recognized as the most knowledgeable Spaniard regarding the customs, languages, and territories of the Texas Indian nations. |
 
 
 ```
