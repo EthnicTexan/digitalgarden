@@ -6,19 +6,15 @@
 ---
 
 ## 1678  - BIRTH 
----
 Joseph was born in Spain in the year 1678
 ### Address/ Location - Guipúzcoa, Spain
 
 
 ## 1690 - Expedition
----
 Joseph came to America before 1691 and was a member of the [Domingo Terán de los Ríos](https://www.tshaonline.org/handbook/entries/teran-de-los-rios-domingo) expedition
 
 
 ## 1692  - Expedition
----
-
 - **August 1692: First Apache Campaign** While stationed at the Neches River garrison as a young soldier, Urrutia participates in a joint military expedition with the **"Texas" (Hasinai)** Indians. The group marches westward into Apache territory.
     
 - **The Night Ambush:** During the expedition, the company is surprised by a night attack while sleeping. According to [[0004 - Persons/H/Father Francisco Hidalgo\|Father Francisco Hidalgo]], the group is saved from total destruction only by the **firearms** of the Spanish soldiers, including Urrutia. This marks one of Urrutia's earliest recorded encounters with the Apache nation.
@@ -38,7 +34,6 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 
 
 ## 1693 - Expedition
----
 ### Colorado River, Texas 
 - **Arrival and Abandonment:** Urrutia was a young soldier stationed at a Spanish garrison near the **Neches River** during the Terán expedition.
     
@@ -59,7 +54,6 @@ Joseph came to America before 1691 and was a member of the [Domingo Terán de l
 This period marks the most legendary chapter of Joseph de Urrutia’s life—his transition from a Spanish soldier to a powerful leader among the Indigenous nations of the Texas coastal plains.
 
 ## 1694 - Expedition
----
 - 1694: Conflicting Accounts of the "Desertion"
 	- Evidence from the writings of [[0004 - Persons/M/Father Damián Massanet\|Father Damián Massanet]] suggests that after the Spanish withdrawal in 1693, Urrutia and other soldiers may have returned to the abandoned missions. A "faithful Indian" reported to the Padres that the deserters had gone back to help local tribes recover buried mission supplies and tools.
     
@@ -107,3 +101,100 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 
 
 ## 1698 - BIRTH - Child: [[0004 - Persons/U/Antonia de Urrutia-Ramon\|Antonia de Urrutia-Ramon]]
+
+
+## 1700 - Return from Expedition
+### Location - San Juan Bautista Mission 
+
+The timeline of Joseph de Urrutia's "seven years" among the Indians is up for debate. 
+
+- **Reconciliation of the "Seven Years" (1691–1697):**
+    
+    - **Departure:** Urrutia departed Monclova with the Terán Expedition on May 16, 1691.
+        
+    - **The Abandonment:** He remained in East Texas when the soldiers withdrew in 1693.
+        
+    - **The Duration:** If he married in Monclova in January 1697, his actual time in the Texas wilderness was approximately **six years** (1691–1697), rather than the seven years traditionally cited in his 1738 statement.
+        
+- **The 1700 Return to Service:**
+    
+    - **Rejoining the Spanish:** While he was already back in Mexico by 1697 for his wedding, historical accounts state he formally "rejoined his countrymen" in a military capacity shortly after the founding of **San Juan Bautista Mission** in 1700.
+    
+    - **Strategic Placement:** This mission was located on the Rio Grande, serving as the gateway back into the Texas territory he had previously lived in for years.
+
+
+## 1703 - MARRIAGE - To [[0004 - Persons/F/Rosa Flores-Y-Valdez\|Rosa Flores-Y-Valdez]]
+### Location - Saltillo, Coahuila, Mexico
+
+## Abt. 1704 - BIRTH -[[ Rosa-Micaela de Urrutia\| Rosa-Micaela de Urrutia]]
+### Santiago Apostol, Monclova, Coahuila, Mexico
+
+- **Marriage:** She married **[[0004 - Persons/G/Pedro-Jose Godoy\|Pedro-Jose Godoy]]** in Boca de Leones, Nuevo Leon, Mexico.
+    
+- **Death:** She passed away approximately in 1774 in Boca de Leones.
+    
+## 1706 - December 05 - BIRTH - [[0004 - Persons/U/Cathalina de Urrutia\|Cathalina de Urrutia]]
+### Santiago Apostol, Monclova, Coahuila, Mexico
+
+- **Marriage:** Married **Don [[0004 - Persons/P/Joseph de Plaza\|Joseph de Plaza]]** (born abt. 1704).
+    
+- **Death:** Occurred between 1778 and 1809 in Boca de Leones, Nuevo Leon.
+    
+## Abt. 1707 - BIRTH - Captain [[0004 - Persons/U/Toribio de Urrutia\|Toribio de Urrutia]]
+### San Juan Bautista del Rio Grande, Presidio del Norte, Coahuila, Mexico
+
+- **Marriages:** First to **[[0004 - Persons/F/Maria-Josefa Flores-de-Valdez\|Maria-Josefa Flores-de-Valdez]]** (1735); Second to **[[0004 - Persons/F/Ana-Josefa-Maria Farias-Flores-de-Abrego\|Ana-Josefa-Maria Farias-Flores-de-Abrego]]**.
+    
+- **Military Career:** He succeeded his father as Captain of San Antonio de Bexar in 1740.
+    
+- **Civic Duty:** Served as the Justicia Mayor of San Antonio in 1743. He contributed $1 peso toward the construction of San Fernando Church in 1738.
+    
+- **Issue:** Married twice but had no children.
+    
+- **Death:** June 26, 1763, in San Antonio, Texas.
+    
+
+## 1709 - July 25 - BIRTH - [[0004 - Persons/U/Juana-de-Dios de Urrutia\|Juana-de-Dios de Urrutia]]
+### Santiago Apostol, Monclova, Coahuila, Mexico
+
+- **Marriages:** First to **[[0004 - Persons/G/Ignacio Gonzalez-de-Inclan\|Ignacio Gonzalez-de-Inclan]]** (abt. 1735); Second to **[[0004 - Persons/O/Pedro-Mariano de Ocon-y-Trillo\|Pedro-Mariano de Ocon-y-Trillo]]** (1746).
+    
+- **Land Dispute:** On June 18, 1745, she appeared before the city council to object to land being granted to Don Luis Antonio Menchaca.
+    
+- **Property Sale:** In 1746, as a widow, she sold property on the north side of the plazas in San Antonio to Lieutenant Don [[0004 - Persons/R/Diego Ramon\|Diego Ramon]].
+    
+- **Death:** After July 19, 1745, in San Antonio, Texas.
+    
+
+## Abt. 1710 - BIRTH - [[0004 - Persons/U/Joaquin de Urrutia\|Joaquin de Urrutia]]
+### Saltillo, Coahuila, Mexico
+
+- **Marriage:** Married **[[0004 - Persons/H/Maria-Josefa Hernandez-Longoria\|Maria-Josefa Hernandez-Longoria]]** (abt. 1732).
+- **Philanthropy:** In 1738, he gave $100 pesos towards the construction of San Fernando Church in San Antonio, Texas
+- **Land Grant:** Received a grant in 1742. His land was bounded by the San Pedro Creek and the property of his father-in-law, [[0004 - Persons/H/Francisco Hernandez\|Francisco Hernandez]].
+- **Death:** November 01, 1768, in San Antonio, Texas.
+    
+
+## Abt. 1711 - BIRTH - [[0004 - Persons/U/Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)\|Francisco Esteban (Pedro) de Urrutia-Hernandez (1711- UNK)]]
+### Saltillo, Coahuila, Mexico
+
+- **Marriage:** Married **[[0004 - Persons/F/Gertrudis Flores-y-Valdez\|Gertrudis Flores-y-Valdez]]** (abt. 1739) in Saltillo.
+- **Contribution:** In 1738, he gave $5 pesos towards the construction of San Fernando Church in San Antonio, Texas
+
+#### Key Genealogical Insights
+
+- **Name Variation:** While primarily known to history as Joseph de Urrutia, contemporary records (such as his son Pedro's 1739 marriage document) also identify him as **Don Pedro de Urrutia**.
+    
+- **Family Alliances:** His marriages connected two of the most influential frontier families of the era: the **Ramón** family of Coahuila and the **Flores de Valdés** family of San Antonio.
+    
+- **Documented Lineage:** The 1739 record specifically identifies **Pedro de Urrutia** as the legitimate son of the ***Captain of San Antonio*** **Pedro de Urrutia** and **[[Rosa Flores de Baldés\|Rosa Flores de Baldés]]**, confirming the second marriage, his alternate name, and the family's status in the San Antonio presidio.
+
+```
+- **:** Mexico, Select Marriages Index, 1556-1989 & Translated Marriage Record of Don Pedro de Urrutia (1739).
+
+```
+
+
+## 1712/13 - January 15 - BIRTH - [[0004 - Persons/U/Manuel de Urrutia\|Manuel de Urrutia]]
+### Sagrario Metropolitano, Saltillo, Coahuila, Mexico
+- **Note:** The records indicate that he died young.
