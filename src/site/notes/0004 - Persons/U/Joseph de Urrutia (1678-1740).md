@@ -39,6 +39,8 @@ Joseph was born in Spain in the year 1678
 - **May 1690:** The **San Francisco de los Tejas Mission** is established on San Pedro Creek (near present-day Augusta) as the first Spanish mission in East Texas.
 
 - **1691:** Urrutia arrived in the region as a soldier with the [**Domingo Terán de los Ríos expedition**](https://www.tshaonline.org/handbook/entries/teran-de-los-rios-domingo). He was part of a force of fifty soldiers escorting priests and livestock to reinforce the mission.
+
+![Mission Tejas ](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mission_tejas_2014.jpg/960px-Mission_tejas_2014.jpg)
 ## 1692  - Expedition
 ---
 ### Location - Neches River, Texas
@@ -189,6 +191,15 @@ This period marks the most legendary chapter of Joseph de Urrutia’s life—his
 
 ## 1700 - Return from Expedition
 ### Location - San Juan Bautista Mission 
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1980205.9850491465!2d-99.10063826295034!3d28.99198476334652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865fe2f81422fdb9%3A0xa65fe5c004abe61!2sRuins%20Mission%20San%20Juan%20Bautista!5e0!3m2!1sen!2sus!4v1766809257828!5m2!1sen!2sus"
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 The timeline of Joseph de Urrutia's "seven years" among the Indians is up for debate. 
 
@@ -253,6 +264,16 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     
 ## Abt. 1707 - BIRTH - Captain [[0004 - Persons/U/Toribio de Urrutia\|Toribio de Urrutia]]
 ### San Juan Bautista del Rio Grande, Presidio del Norte, Coahuila, Mexico
+
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1980205.9850491465!2d-99.10063826295034!3d28.99198476334652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865fe2f81422fdb9%3A0xa65fe5c004abe61!2sRuins%20Mission%20San%20Juan%20Bautista!5e0!3m2!1sen!2sus!4v1766809257828!5m2!1sen!2sus"
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 
 - **Marriages:** First to **[[0004 - Persons/F/Maria-Josefa Flores-de-Valdez\|Maria-Josefa Flores-de-Valdez]]** (1735); Second to **[[0004 - Persons/F/Ana-Josefa-Maria Farias-Flores-de-Abrego\|Ana-Josefa-Maria Farias-Flores-de-Abrego]]**.
     
@@ -717,6 +738,18 @@ The final years of Captain Joseph de Urrutia’s life and the subsequent settlem
 * **Date of Passing:** Although some secondary sources list his death as July 16, 1741, his general executor, **[[0004 - Persons/P/Joseph de Plaza\|Joseph de Plaza]]**, explicitly stated in legal records that Urrutia died on **July 16, 1740**.
 * **Residence:** At the time of his death, he lived in the **Comandancia** (known today as the Spanish Governor's Palace), where he was known to converse with prisoners in the adjoining jail during the afternoon siesta.
 
+
+#### He may be buried at the San Juan Bautista Mission 
+
+<div style="overflow:hidden; padding-bottom:56.25%; position:relative; height:0;">
+    <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1980205.9850491465!2d-99.10063826295034!3d28.99198476334652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865fe2f81422fdb9%3A0xa65fe5c004abe61!2sRuins%20Mission%20San%20Juan%20Bautista!5e0!3m2!1sen!2sus!4v1766809257828!5m2!1sen!2sus"
+        style="left:0; top:0; height:100%; width:100%; position:absolute; border:0;" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
 ### 1741: Estate Settlement and Inventory
 
 * **Testamentary Proceedings:** Legal proceedings to settle the estate began on **February 27, 1741**, led by executor Joseph de Plaza to ensure debts were paid and the remainder divided among the heirs.
