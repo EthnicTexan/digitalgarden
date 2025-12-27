@@ -448,3 +448,84 @@ An administrative record from August 1737 highlights Joseph de Urrutia’s relia
 
 **Primary Source:** *Bexar Archives*, August 23, 1737 (Identifier: `e_bx_001947`). Translation of Power of Attorney: José de Urrutia to Ignacio González de Jordán.
 ```
+## 1739 - The San Saba Campaign (1738–1739)
+---
+### San Saba Region 
+
+In the final years of his career, Joseph de Urrutia took decisive, independent action to address the deteriorating security of San Antonio, culminating in a major military expedition into the Texas interior.
+
+
+**1738: Petition for Independent Command**
+* Frustrated by repeated Apache raids and bureaucratic delays, Captain Urrutia bypassed local authorities and petitioned the Viceroy directly for permission to lead a campaign on his own responsibility.
+* He described a "state of constant terror" in San Antonio, where families were fleeing the settlement and residents were too afraid to tend to their livestock.
+* Urrutia provided a harrowing account of Apache stealth, noting they could enter the center of the presidio plaza at night and steal horses tied to house doors without being heard.
+* He reported that mission Indians were deserting in mass numbers to escape Apache "tyranny," fleeing toward the coast or the "[[0009 - Places/M/Monte Grande\|Monte Grande]]" (Big Wood).
+
+**The Bid for Leadership**
+* In his petition, Urrutia emphasized his unique qualifications: his seven-year residence among the tribes, his fluency in their languages, and the personal affection the Indians held for him.
+* Historians suggest his detailed list of "necessary qualifications" for frontier leadership was a strategic move to promote his own candidacy for the governorship.
+* He demanded sole command of the expedition to prevent "other chiefs" from interfering with his strategy.
+
+**The Winter of 1739: Expedition to San Saba**
+* Although originally planned for April, the campaign was delayed until the winter of 1739.
+* Urrutia led his forces into the **San Saba region**, reaching approximately the same point achieved by [[0004 - Persons/B/Juan Antonio Bustillo y Ceballos\|Juan Antonio Bustillo y Ceballos]] in 1732.
+* The campaign's funding was based on a "spoils" system: expenses were to be met by the **sale of captives**, with participants sharing in any secured plunder.
+
+```
+### Source
+
+**Secondary Source:** Chabot, Frederick C. *With The Makers of Texas: Genealogies of the Early San Antonio Families*.
+
+```
+
+## 1740 - Final Years & Estate (1740–1741)
+---
+The final years of Captain Joseph de Urrutia’s life and the subsequent settlement of his estate provide an intimate look at the family legacy and the material culture of a high-ranking Spanish officer on the Texas frontier.
+### San Antonio, Texas
+### 1740: Death and Succession
+
+* **Succession of Command:** Joseph de Urrutia was succeeded as Captain of the Presidio de Béxar by his son, **[[0004 - Persons/U/Toribio de Urrutia\|Toribio de Urrutia]]**, who continued the family’s military leadership in San Antonio.
+* **The Final Will:** On **July 4, 1740**, while in San Antonio, Urrutia drafted his last will and testament.
+* **Date of Passing:** Although some secondary sources list his death as July 16, 1741, his general executor, **[[0004 - Persons/P/Joseph de Plaza\|Joseph de Plaza]]**, explicitly stated in legal records that Urrutia died on **July 16, 1740**.
+* **Residence:** At the time of his death, he lived in the **Comandancia** (known today as the Spanish Governor's Palace), where he was known to converse with prisoners in the adjoining jail during the afternoon siesta.
+
+### 1741: Estate Settlement and Inventory
+
+* **Testamentary Proceedings:** Legal proceedings to settle the estate began on **February 27, 1741**, led by executor Joseph de Plaza to ensure debts were paid and the remainder divided among the heirs.
+* **Property and Assets:**
+* **Real Estate:** The inventory identified a house and lot owned in **Saltillo**, Mexico, but noted that Urrutia did not own a home in San Antonio.
+* **Financial Standing:** Despite his rank, Urrutia described himself as a "poor man" burdened with many children and family. However, his accounts showed that soldiers and residents owed his estate over **12,400 pesos** at the time of his death.
+
+| **Method**           | **Estimated Total Value (12,400 Pesos)** | **Perspective**                                                |
+| -------------------- | ---------------------------------------- | -------------------------------------------------------------- |
+| **Metal Content**    | **~$300,000**                            | The "floor" value of the raw silver.                           |
+| **Purchasing Power** | **~$1.5 Million**                        | What that money "felt" like to spend in 1740.                  |
+
+* **Personal Property:** His high social standing was reflected in luxury goods found in his home, including silver plates and spoons, an embroidered chair, a silver-handled sword, and a painting of *Our Lady of Sorrows* (*Nuestra Señora de los Dolores*).
+
+* **Documented Heirs:** The proceedings list his widow, **Rosa Flores y Valdés**, and his legitimate children: **Joseph Miguel**, **Toribio**, **Pedro**, **Joaquín**, **Ignacio**, **Gertrudis**, **Juana**, **Rosa Micaela** (deceased), and another daughter married to **Francisco Menchaca**.
+### Historical Notes & Questions
+
+* **What is the *Expediente sobre la campaña*?** This is not a published book, but rather an official "Expediente" (a legal file or dossier) regarding his military campaigns where he documented his financial struggles and service history.
+* **Where is he buried?** While the exact location is not named in these excerpts, the inventory mentions a **red velvet suit** (coat, trousers, and waistcoat) that was set aside specifically for his **funeral and burial**. 
+* He may have been buried in present day Guerrero, Mexico at the Mission San Juan Bautista 
+
+
+```
+### **Sources**
+
+* **Primary Source:** *Bexar Archives*, Feb 27, 1741 – March 8, 1741 (Identifier: `e_bx_001959`). Testamentary proceedings for the settlement of Joseph de Urrutia's estate.
+* **Secondary Source:** Chabot, Frederick C. *With The Makers of Texas: Genealogies of the Early San Antonio Families*.
+```
+
+# Sources
+---
+
+Wikipedia: [Joseph de Urrutia](https://en.wikipedia.org/wiki/Jos%C3%A9_de_Urrutia_(explorer))
+Texas Handbook Online: [Joseph de Urrutia](https://www.tshaonline.org/handbook/entries/urrutia-jose-de)
+
+#### Sources For Children Unless Otherwise Noted
+
+> Primary Source: Inclan, John. The Descendants of Captain Pedro de la Garza Falcon y Trevino.
+> 
+> Supporting Documentation: Chabot, Frederick C. With the Makers of San Antonio; De La Teja, Jesus F. San Antonio de Bexar; Gonzalez de la Garza, Rodolfo. Mil Familias III.
