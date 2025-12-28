@@ -20,9 +20,9 @@
 | [[0004 - Persons/H/Herrera/Guadalupe Herrera-Garza\|Guadalupe Herrera-Garza]]                   | 1914       | 1914         |
 | [[0004 - Persons/H/Herrera/Anita Herrera-Garza\|Anita Herrera-Garza]]                           | 1915       | 1915         |
 | [[0004 - Persons/H/Herrera/Jesus Herrera-Garza Jr.\|Jesus Herrera-Garza Jr.]]                   | 1917       | 1917         |
-| [[0004 - Persons/H/Herrera/Santiago Herrera-Garza\|Santiago Herrera-Garza]]                     | 1919       | 1919         |
+| [[0004 - Persons/H/Herrera/Santiago (Chago) Herrera-Garza\|Santiago (Chago) Herrera-Garza]]     | 1919       | 1919         |
 | [[0004 - Persons/H/Herrera/Alberto Herrera-Garza\|Alberto Herrera-Garza]]                       | 1921       | 1921         |
-| [[0004 - Persons/H/Herrera/Isabel Herrera-Garza\|Isabel Herrera-Garza]]                         | 1925       | 1925         |
+| [[0004 - Persons/H/Herrera/Isabel (Chavelo) Herrera-Garza\|Isabel (Chavelo) Herrera-Garza]]     | 1925       | 1925         |
 | [[0004 - Persons/H/Herrera/Maria Herrera-Garza\|Maria Herrera-Garza]]                           | 1927       | 1927         |
 | [[0004 - Persons/H/Herrera/Alejandro Garza Herrera-Garza\|Alejandro Garza Herrera-Garza]]       | 1931       | 1931         |
 

@@ -61,7 +61,8 @@ Jesus spent decades as a farmer in the Poth and Floresville areas, navigating th
 
 * **1910 Census:** Living in Wilson County with 3 children.
 * **1930 Census:** Listed as a farmer on "Precinct 1" farm, owning his own account.
-* **1950 Census:** Recorded at age 64 living on **Rosciusko Road** in Poth with his second wife, Otillia.
+* **1950 Census:** Recorded at age 64 living on **Kosciusko Road** in Poth with his second wife, Otillia. "Kosciuszko Rd" appears to be the name of a local road in the general area of Poth, Texas, and the nearby small community of Kosciusko. 
+
 
 ## 1906 - BIRTH - [[0004 - Persons/H/Herrera/Pilar Herrera-Garza\|Pilar Herrera-Garza]]
 
@@ -87,13 +88,13 @@ Jesus spent decades as a farmer in the Poth and Floresville areas, navigating th
 
 ## 1917 - BIRTH - [[0004 - Persons/H/Herrera/Jesus Herrera-Garza Jr.\|Jesus Herrera-Garza Jr.]]
 
-## 1919 - BIRTH - [[0004 - Persons/H/Herrera/Santiago Herrera-Garza\|Santiago Herrera-Garza]]
+## 1919 - BIRTH - [[0004 - Persons/H/Herrera/Santiago (Chago) Herrera-Garza\|Santiago (Chago) Herrera-Garza]]
 
 * **Details:** d. 1992.
 
 ## 1921 - BIRTH - [[0004 - Persons/H/Herrera/Alberto Herrera-Garza\|Alberto Herrera-Garza]]
 
-## 1925 - BIRTH - [[0004 - Persons/H/Herrera/Isabel Herrera-Garza\|Isabel Herrera-Garza]]
+## 1925 - BIRTH - [[0004 - Persons/H/Herrera/Isabel (Chavelo) Herrera-Garza\|Isabel (Chavelo) Herrera-Garza]]
 
 * **Details:** d. 1992.
 

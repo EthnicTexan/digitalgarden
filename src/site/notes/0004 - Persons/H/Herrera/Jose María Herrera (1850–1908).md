@@ -45,6 +45,7 @@ In the late 1870s, José María moved north into Texas, settling in the historic
 On **October 14, 1877**, José María married **Juana Godina** at Our Lady of Guadalupe Catholic Church in Graytown, the daughter of the wagoner [[0004 - Persons/G/Godina/Leonicio Godina-Colio (c. 1810 – bef. 1880)\|Leonicio Godina-Colio (c. 1810 – bef. 1880)]]
 
 Graytown was a vital hub for Tejano (Texan) families in the late 19th century.
+[Read more on Graytown](https://www.wilsoncountyhistory.org/talk-graytown)
 
 ### Location: Graytown, Wilson County, Texas
 
