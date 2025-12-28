@@ -21,7 +21,7 @@
 | [[0004 - Persons/U/Joseph Manuel Nepomuseno de Urrutia-Valdes\|Joseph Manuel Nepomuseno de Urrutia-Valdes]]                                 | 1740       |
 | [[0004 - Persons/U/Juana Francisca de Urrutia-Valdez\|Juana Francisca de Urrutia-Valdez]]                                                   | 1745       |
 | [[0004 - Persons/U/Maria Josefa de Urrutia-Valdes\|Maria Josefa de Urrutia-Valdes]]                                                         | 1749       |
-| [[0004 - Persons/U/Francisca Esmergilda de Urrutia-Valdes\|Francisca Esmergilda de Urrutia-Valdes]]                                         | 1751       |
+| [[0004 - Persons/U/Francisca Esmergilda de Urrutia-Valdes (1751 - 1783)\|Francisca Esmergilda de Urrutia-Valdes (1751 - 1783)]]             | 1751       |
 | [[0004 - Persons/U/Juan Antonio de Urrutia-Valdes\|Juan Antonio de Urrutia-Valdes]]                                                         | 1754       |
 | [[0004 - Persons/U/Franco Sosthenes de Urrutia-Valdes\|Franco Sosthenes de Urrutia-Valdes]]                                                 | 1758       |
 | [[0004 - Persons/U/Josefa Guadalupe de Urrutia-Valdes\|Josefa Guadalupe de Urrutia-Valdes]]                                                 | 1760       |

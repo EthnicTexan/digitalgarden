@@ -60,7 +60,7 @@ Joseph was born in Spain in the year 1678
 
 - **August 1692: First Apache Campaign** While stationed at the Neches River garrison as a young soldier, Urrutia participates in a joint military expedition with the **"Texas" (Hasinai)** Indians. The group marches westward into Apache territory.
     
-- **The Night Ambush:** During the expedition, the company is surprised by a night attack while sleeping. According to [[0004 - Persons/H/Father Francisco Hidalgo\|Father Francisco Hidalgo]], the group is saved from total destruction only by the **firearms** of the Spanish soldiers, including Urrutia. This marks one of Urrutia's earliest recorded encounters with the Apache nation.
+- **The Night Ambush:** During the expedition, the company is surprised by a night attack while sleeping. According to [[0004 - Persons/H/Hidalgo/Father Francisco Hidalgo\|Father Francisco Hidalgo]], the group is saved from total destruction only by the **firearms** of the Spanish soldiers, including Urrutia. This marks one of Urrutia's earliest recorded encounters with the Apache nation.
     
 - **c. late 1692: Major Military Victory:** Urrutia continues to serve in Spanish-Indian coalition forces. In a subsequent campaign during this period, the alliance achieves a decisive victory, reportedly **killing 136 Apaches**.
 
@@ -278,7 +278,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     </iframe>
 </div>
 
-- **Marriage:** Married **Don [[0004 - Persons/P/Joseph de Plaza\|Joseph de Plaza]]** (born abt. 1704).
+- **Marriage:** Married **Don [[0004 - Persons/P/Plaza/Joseph de Plaza\|Joseph de Plaza]]** (born abt. 1704).
     
 - **Death:** Occurred between 1778 and 1809 in Boca de Leones, Nuevo Leon.
     
@@ -346,9 +346,9 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
     </iframe>
 </div>
 
-- **Marriage:** Married **[[0004 - Persons/H/Maria-Josefa Hernandez-Longoria\|Maria-Josefa Hernandez-Longoria]]** (abt. 1732).
+- **Marriage:** Married **[[0004 - Persons/H/Hernandez/Maria-Josefa Hernandez-Longoria\|Maria-Josefa Hernandez-Longoria]]** (abt. 1732).
 - **Philanthropy:** In 1738, he gave $100 pesos towards the construction of San Fernando Church in San Antonio, Texas
-- **Land Grant:** Received a grant in 1742. His land was bounded by the San Pedro Creek and the property of his father-in-law, [[0004 - Persons/H/Francisco Hernandez\|Francisco Hernandez]].
+- **Land Grant:** Received a grant in 1742. His land was bounded by the San Pedro Creek and the property of his father-in-law, [[0004 - Persons/H/Hernandez/Francisco Hernandez\|Francisco Hernandez]].
 - **Death:** November 01, 1768, in San Antonio, Texas.
     
 
@@ -405,7 +405,7 @@ The timeline of Joseph de Urrutia's "seven years" among the Indians is up for de
 
 ---
 
-- **Lasting Indigenous Influence:** Even years after his departure, Urrutia and [[0004 - Persons/H/Father Francisco Hidalgo\|Father Francisco Hidalgo]] remained deeply respected by the **Asinais (Hasinai)** people.
+- **Lasting Indigenous Influence:** Even years after his departure, Urrutia and [[0004 - Persons/H/Hidalgo/Father Francisco Hidalgo\|Father Francisco Hidalgo]] remained deeply respected by the **Asinais (Hasinai)** people.
 - **The St. Denis Encounter:** When the French explorer **[[0004 - Persons/S/St. Denis/Louis Juchereau de St. Denis\|Louis Juchereau de St. Denis]]** arrived among the Asinais in 1714, the tribe used his expedition as a diplomatic channel to reach Spanish authorities.
 - **A Specific Request for Leadership:** The Asinais requested that St. Denis petition the Mexican government to send two specific men back to them:
     - **Father Francisco Hidalgo:** To serve as their minister and missionary.
@@ -794,7 +794,7 @@ The final years of Captain Joseph de Urrutia’s life and the subsequent settlem
 
 * **Succession of Command:** Joseph de Urrutia was succeeded as Captain of the Presidio de Béxar by his son, **[[0004 - Persons/U/Toribio de Urrutia\|Toribio de Urrutia]]**, who continued the family’s military leadership in San Antonio.
 * **The Final Will:** On **July 4, 1740**, while in San Antonio, Urrutia drafted his last will and testament.
-* **Date of Passing:** Although some secondary sources list his death as July 16, 1741, his general executor, **[[0004 - Persons/P/Joseph de Plaza\|Joseph de Plaza]]**, explicitly stated in legal records that Urrutia died on **July 16, 1740**.
+* **Date of Passing:** Although some secondary sources list his death as July 16, 1741, his general executor, **[[0004 - Persons/P/Plaza/Joseph de Plaza\|Joseph de Plaza]]**, explicitly stated in legal records that Urrutia died on **July 16, 1740**.
 * **Residence:** At the time of his death, he lived in the **Comandancia** (known today as the Spanish Governor's Palace), where he was known to converse with prisoners in the adjoining jail during the afternoon siesta.
 
 

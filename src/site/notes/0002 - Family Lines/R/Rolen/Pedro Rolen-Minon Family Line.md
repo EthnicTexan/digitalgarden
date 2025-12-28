@@ -6,7 +6,7 @@
 | Name                                                                                                                                   | Birth Year | Arrival Year |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------ |
 | [[0004 - Persons/R/Rolen-Minon/Pedro Rolen-Minon JR (1732-1804)\|Pedro Rolen-Minon JR (1732-1804)]]                                 | 1732       | 1755         |
-| [[0004 - Persons/R/Rolen-Minon/Francisco Pedro Rolen\|Francisco Pedro Rolen]]                                                       | 1760       | 1760         |
+| [[0004 - Persons/R/Rolen-Minon/Francisco Pedro Rolen (1760-1819)\|Francisco Pedro Rolen (1760-1819)]]                               | 1760       | 1760         |
 | [[0004 - Persons/R/Rolen-Minon/Miguel Rolen\|Miguel Rolen]]                                                                         | 1762       | 1762         |
 | [[0004 - Persons/R/Rolen-Minon/Maria Manuela Minon\|Maria Manuela Minon]]                                                           | 1765       | 1765         |
 | [[0004 - Persons/R/Rolen-Minon/Teresa Rolen\|Teresa Rolen]]                                                                         | 1766       | 1766         |
@@ -15,7 +15,7 @@
 | [[0004 - Persons/R/Rolen-Minon/Jose Leacadio Marino Rolen\|Jose Leacadio Marino Rolen]]                                             | 1798       | 1798         |
 | [[0004 - Persons/R/Rolen-Minon/MA Catarina de la Concepcion Rolen\|MA Catarina de la Concepcion Rolen]]                             | 1800       | 1800         |
 | [[0004 - Persons/R/Rolen-Minon/MA Josefa Rolen-Sandobal\|MA Josefa Rolen-Sandobal]]                                                 | 1803       | 1803         |
-| [[0004 - Persons/R/Rolen-Minon/MA Trinidad Olaya Rolen\|MA Trinidad Olaya Rolen]]                                                   | 1804       | 1804         |
+| [[0004 - Persons/R/Rolen-Minon/MA Trinidad Olaya Rolen (1804 - UNK)\|MA Trinidad Olaya Rolen (1804 - UNK)]]                         | 1804       | 1804         |
 | [[0004 - Persons/R/Rolen-Minon/Jose Antonio Rolen-Minon\|Jose Antonio Rolen-Minon]]                                                 | 1807       | 1807         |
 
 { .block-language-dataview}

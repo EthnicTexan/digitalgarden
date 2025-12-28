@@ -6,6 +6,6 @@
 # Name ( - )
 ---
 
-* The earliest we currently see him in Texas is when he marries [[0004 - Persons/G/Gomez/MA Angela (Crisanta) Gomez-Rolen\|MA Angela (Crisanta) Gomez-Rolen]] in 1849 
+* The earliest we currently see him in Texas is when he marries [[0004 - Persons/G/Gomez/MA Angela (Crisanta) Gomez-Rolen (1824-1882)\|MA Angela (Crisanta) Gomez-Rolen (1824-1882)]] in 1849 
 # Resources/Further Reading
 ---

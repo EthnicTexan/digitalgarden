@@ -7,7 +7,7 @@
 | Name                                                                                                                     | Birth Year | Arrival Year |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------ |
 | [[0004 - Persons/X/Ximenes/Pedro Demetrio Ximenes-Saiz\|Pedro Demetrio Ximenes-Saiz]]                                 | 1816       | 1840         |
-| [[0004 - Persons/X/Ximenes/Francisco Ximenes-Gomez\|Francisco Ximenes-Gomez]]                                         | 1841       | 1841         |
+| [[0004 - Persons/X/Ximenes/Francisco Ximenes-Gomez (1841-1913)\|Francisco Ximenes-Gomez (1841-1913)]]                 | 1841       | 1841         |
 | [[0004 - Persons/X/Ximenes/MA de la (Trinidad) Ximenes-Gomez\|MA de la (Trinidad) Ximenes-Gomez]]                     | 1842       | 1842         |
 | [[0004 - Persons/X/Ximenes/MA (Pomposa) de Jesus Ximenes-Gomez\|MA (Pomposa) de Jesus Ximenes-Gomez]]                 | 1843       | 1843         |
 | [[0004 - Persons/X/Ximenes/MA (Ursula) Ximenes-Gomez\|MA (Ursula) Ximenes-Gomez]]                                     | 1844       | 1844         |
