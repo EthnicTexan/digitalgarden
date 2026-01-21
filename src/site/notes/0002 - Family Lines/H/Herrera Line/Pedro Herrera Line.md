@@ -10,11 +10,11 @@
 | [[0004 - Persons/H/Herrera/José Guadalupe Herrera-Godina\|José Guadalupe Herrera-Godina]]       | 1880       | 1880         |
 | [[0004 - Persons/H/Herrera/Jesus Herrera-Godina (1886-1961)\|Jesus Herrera-Godina (1886-1961)]] | 1886       | 1886         |
 | [[0004 - Persons/H/Herrera/David Herrera\|David Herrera]]                                       | 1891       | 1891         |
-| [[0004 - Persons/H/Herrera/Florencia Herrera\|Florencia Herrera]]                               | 1893       | 1893         |
 | [[0004 - Persons/H/Herrera/Leonardo Herrera\|Leonardo Herrera]]                                 | 1893       | 1893         |
+| [[0004 - Persons/H/Herrera/Florencia Herrera\|Florencia Herrera]]                               | 1893       | 1893         |
 | [[0004 - Persons/H/Herrera/Juliana Herrera\|Juliana Herrera]]                                   | 1894       | 1894         |
-| [[0004 - Persons/H/Herrera/Jose Maria Herrera-Garza\|Jose Maria Herrera-Garza]]                 | 1906       | 1906         |
 | [[0004 - Persons/H/Herrera/Pilar Herrera-Garza\|Pilar Herrera-Garza]]                           | 1906       | 1906         |
+| [[0004 - Persons/H/Herrera/Jose Maria Herrera-Garza\|Jose Maria Herrera-Garza]]                 | 1906       | 1906         |
 | [[0004 - Persons/H/Herrera/Anastacio Herrera-Garza\|Anastacio Herrera-Garza]]                   | 1908       | 1908         |
 | [[0004 - Persons/H/Herrera/Pedro Herrera-Garza\|Pedro Herrera-Garza]]                           | 1910       | 1910         |
 | [[0004 - Persons/H/Herrera/Guadalupe Herrera-Garza\|Guadalupe Herrera-Garza]]                   | 1914       | 1914         |

@@ -89,15 +89,15 @@ By 1900, the census records show José María as the head of a busy household, w
 | **Leonardo Herera** | 7 | Son |
 | **Juliana Herera** | 6 | Daughter |
 
+*Note: the recorder spelled the surname with only two r's. As Jose Maria could not read or write, he was unable verify the correct spelling of his name.*
 ## 1908- MAR- 10 - DEATH
 
 ---
 
 ### Location: San Antonio, Bexar County, Texas
 
-José María Herrera passed away on **March 10, 1908**, at the age of 58. The cause of death was recorded as tuberculosis, a common and devastating illness in the early 20th century.
-
-* **Burial:** San Fernando Cemetery #1, San Antonio, Texas.
+José María Herrera passed away on **March 10, 1908**, at the age of 58. The cause of death was recorded as tuberculosis, a common and devastating illness in the early 20th century
+* **Burial:** San Fernando Cemetery No. 1, San Antonio, Texas.
 
 
 ---

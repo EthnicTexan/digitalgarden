@@ -6,6 +6,12 @@
 ---
 Join us as we explore the genealogies and history of Texas! 
 
+<iframe 
+    src="https://n8n.srv1164698.hstgr.cloud/webhook/6f7911bb-b08c-40ba-b613-a81d3d26ee18/chat" 
+    height="600" 
+    width="100%" 
+    style="border:none; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</iframe>
 ##### A Quick Note on Names 
 To help you navigate our family history, we use a specific naming style:
 1. **Daily Names:** If you see a name in (parentheses), that’s what the person usually went by.
